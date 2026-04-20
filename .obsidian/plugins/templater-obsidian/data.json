@@ -1,0 +1,20 @@
+{
+  "templates_folder": "90_Sistema/03_Recursos",
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [],
+  "folder_templates": [
+    {
+      "folder": "10_Dominio_Pessoal/04_Logs",
+      "template": "90_Sistema/03_Recursos/Template_Diario_Estudo"
+    },
+    {
+      "folder": "30_Dominio_Intelectual/03_Recursos",
+      "template": ""
+    }
+  ],
+  "startup_templates": []
+}

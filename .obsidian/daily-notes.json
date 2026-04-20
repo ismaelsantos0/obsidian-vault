@@ -1,0 +1,6 @@
+{
+  "folder": "10_Dominio_Pessoal/04_Logs",
+  "dateFormat": "DD-MM-YYYY",
+  "template": "90_Sistema/03_Recursos/Template_Diario_Estudo",
+  "autorun": false
+}

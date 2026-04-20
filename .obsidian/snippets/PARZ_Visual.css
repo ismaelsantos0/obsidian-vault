@@ -1,0 +1,317 @@
+/* ═══════════════════════════════════════════════════════
+   PARZ VAULT — SISTEMA VISUAL COMPLETO
+   Versão: 1.0 · Criado: 2026-04-17
+   Compatível com: Obsidian Modo Escuro (padrão)
+═══════════════════════════════════════════════════════ */
+
+/* ─── TIPOGRAFIA BASE ─────────────────────────────────── */
+body {
+  --font-text-size: 16px;
+  --line-height-normal: 1.75;
+  --font-interface-size: 14px;
+  --font-monospace-size: 13.5px;
+}
+
+/* ─── HEADINGS ────────────────────────────────────────── */
+
+/* H1 — Título principal: branco brilhante com borda âmbar */
+.markdown-preview-view h1,
+.cm-header-1 {
+  color: #f8f8f2 !important;
+  font-size: 2em !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.3px;
+  border-bottom: 3px solid #ff9f43;
+  padding-bottom: 8px;
+  margin-bottom: 0.8em !important;
+}
+
+/* H2 — Seção: azul com barra lateral */
+.markdown-preview-view h2,
+.cm-header-2 {
+  color: #74b9ff !important;
+  font-size: 1.5em !important;
+  font-weight: 700 !important;
+  border-left: 4px solid #74b9ff;
+  padding-left: 12px;
+  margin-top: 1.5em !important;
+}
+
+/* H3 — Subseção: âmbar/dourado */
+.markdown-preview-view h3,
+.cm-header-3 {
+  color: #ffeaa7 !important;
+  font-size: 1.2em !important;
+  font-weight: 600 !important;
+}
+
+/* H4 — Detalhes: verde menta */
+.markdown-preview-view h4,
+.cm-header-4 {
+  color: #00cec9 !important;
+  font-size: 1.05em !important;
+  font-weight: 600 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ─── TEXTO BOLD E ITALIC ─────────────────────────────── */
+
+.markdown-preview-view strong {
+  color: #fdcb6e !important;
+  font-weight: 700;
+}
+
+.markdown-preview-view em {
+  color: #a29bfe !important;
+}
+
+/* ─── LINKS INTERNOS E EXTERNOS ──────────────────────── */
+
+.markdown-preview-view a.internal-link {
+  color: #81ecec !important;
+  text-decoration: none;
+  border-bottom: 1px dotted #81ecec;
+  transition: border-color 0.2s;
+}
+
+.markdown-preview-view a.internal-link:hover {
+  color: #00cec9 !important;
+  border-bottom-color: #00cec9;
+}
+
+.markdown-preview-view a.external-link {
+  color: #74b9ff !important;
+}
+
+/* ─── CHECKBOXES / TAREFAS ────────────────────────────── */
+
+/* Checkbox padrão — azul */
+.task-list-item-checkbox {
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 5px !important;
+  border: 2px solid #74b9ff !important;
+  cursor: pointer;
+  accent-color: #00b894;
+}
+
+/* Item marcado como feito */
+.task-list-item.is-checked {
+  color: #636e72 !important;
+  text-decoration: line-through;
+}
+
+/* ─── TAGS ────────────────────────────────────────────── */
+
+.cm-hashtag,
+.tag {
+  background: rgba(116, 185, 255, 0.15) !important;
+  color: #81ecec !important;
+  border: 1px solid rgba(116, 185, 255, 0.3) !important;
+  border-radius: 12px !important;
+  padding: 2px 10px !important;
+  font-size: 0.82em !important;
+  text-decoration: none !important;
+}
+
+/* ─── BLOCKQUOTE ──────────────────────────────────────── */
+
+.markdown-preview-view blockquote {
+  border-left: 4px solid #636e72;
+  background: rgba(45, 52, 54, 0.4);
+  padding: 10px 16px;
+  border-radius: 0 6px 6px 0;
+  color: #b2bec3;
+  margin: 1em 0;
+}
+
+/* ─── CÓDIGO INLINE ───────────────────────────────────── */
+
+.markdown-preview-view code {
+  background: rgba(255, 159, 67, 0.15) !important;
+  color: #ff9f43 !important;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 0.9em;
+}
+
+/* ─── BLOCOS DE CÓDIGO ────────────────────────────────── */
+
+.markdown-preview-view pre {
+  background: #1e2127 !important;
+  border: 1px solid #2d3436;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+/* ─── TABELAS ─────────────────────────────────────────── */
+
+.markdown-preview-view table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.93em;
+  margin: 1em 0;
+}
+
+.markdown-preview-view th {
+  background: rgba(116, 185, 255, 0.12) !important;
+  color: #74b9ff !important;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-bottom: 2px solid #2d3436;
+  text-align: left;
+}
+
+.markdown-preview-view td {
+  padding: 8px 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.markdown-preview-view tr:hover td {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+/* ─── SEPARADOR HORIZONTAL ────────────────────────────── */
+
+.markdown-preview-view hr {
+  border: none;
+  border-top: 1px solid #2d3436;
+  margin: 2em 0;
+}
+
+/* ─── CALLOUTS CUSTOMIZADOS ───────────────────────────── */
+
+/* IMPORTANT — Vermelho/laranja */
+.callout[data-callout="important"] {
+  --callout-color: 255, 107, 107;
+  --callout-icon: lucide-alert-circle;
+}
+.callout[data-callout="important"] .callout-content {
+  background: rgba(255, 107, 107, 0.08) !important;
+}
+
+/* TIP — Verde */
+.callout[data-callout="tip"] {
+  --callout-color: 0, 184, 148;
+  --callout-icon: lucide-lightbulb;
+}
+
+/* NOTE — Azul */
+.callout[data-callout="note"] {
+  --callout-color: 116, 185, 255;
+  --callout-icon: lucide-info;
+}
+
+/* WARNING — Âmbar */
+.callout[data-callout="warning"] {
+  --callout-color: 253, 203, 110;
+  --callout-icon: lucide-alert-triangle;
+}
+
+/* CAUTION — Vermelho forte */
+.callout[data-callout="caution"] {
+  --callout-color: 214, 48, 49;
+  --callout-icon: lucide-alert-octagon;
+}
+
+/* Base de todos os callouts */
+.callout {
+  border-radius: 8px !important;
+  border-left-width: 4px !important;
+  margin: 1em 0 !important;
+}
+
+/* ─── PROPERTIES / FRONTMATTER ────────────────────────── */
+
+.metadata-container {
+  background: rgba(45, 52, 54, 0.3) !important;
+  border-radius: 8px !important;
+  padding: 8px 12px !important;
+  margin-bottom: 1.5em !important;
+  border: 1px solid #2d3436 !important;
+  font-size: 0.85em;
+}
+
+.metadata-property-key {
+  color: #74b9ff !important;
+  font-weight: 600;
+}
+
+/* ─── BARRA LATERAL ───────────────────────────────────── */
+
+.nav-file-title {
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.9em;
+}
+
+.nav-file-title:hover {
+  background: rgba(116, 185, 255, 0.1) !important;
+}
+
+.nav-file-title.is-active {
+  background: rgba(116, 185, 255, 0.2) !important;
+  color: #74b9ff !important;
+  font-weight: 600;
+}
+
+/* ─── SCROLLBAR ───────────────────────────────────────── */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2d3436;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #636e72;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ─── BOTÕES (plugin Buttons) ─────────────────────────── */
+
+.button-container button,
+button.mod-cta {
+  background: linear-gradient(135deg, #0984e3, #74b9ff) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 8px 20px !important;
+  font-weight: 600 !important;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.button-container button:hover {
+  opacity: 0.85;
+}
+
+/* ─── RESPONSIVIDADE MOBILE ───────────────────────────── */
+
+@media screen and (max-width: 768px) {
+  body {
+    --font-text-size: 15px;
+    --line-height-normal: 1.65;
+  }
+
+  .markdown-preview-view h1 { font-size: 1.6em !important; }
+  .markdown-preview-view h2 { font-size: 1.3em !important; }
+  .markdown-preview-view h3 { font-size: 1.1em !important; }
+
+  .markdown-preview-view table {
+    font-size: 0.82em;
+  }
+
+  .markdown-preview-view td,
+  .markdown-preview-view th {
+    padding: 6px 8px;
+  }
+}
