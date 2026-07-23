@@ -1,8 +1,9 @@
 {
-  "enabledCssSnippets": ["PARZ_Visual"],
+  "enabledCssSnippets": [
+    "PARZ_Visual"
+  ],
   "baseFontSize": 16,
   "textFontFamily": "",
-  "monospaceFont": "",
   "interfaceFontFamily": "",
   "nativeMenus": false,
   "translucency": false
