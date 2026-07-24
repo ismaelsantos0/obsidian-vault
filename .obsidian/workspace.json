@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Dominio_Profissional/02_Projetos/Projeto_Tinta.md",
+                "file": "20_Dominio_Profissional/02_Projetos/Projeto_Tinta/00_Master_Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto_Tinta"
+              "title": "00_Master_Roadmap"
             }
           }
         ]
@@ -226,6 +226,8 @@
   },
   "active": "191712eb626dc59b",
   "lastOpenFiles": [
+    "Daily_Gravity/2026-07-24.md",
+    "Daily_Gravity",
     "30_Dominio_Intelectual/02_Projetos/Roteiro Mestre - ALE-RR.md",
     "30_Dominio_Intelectual/00_Dashboard_ALE_RR.md",
     "30_Dominio_Intelectual/04_Logs/Template_Diario.md",
@@ -251,7 +253,6 @@
     "30_Dominio_Intelectual/03_Recursos/Mapa_Simples_Processo_Legislativo.md",
     "2026-04-18.md",
     "Sem título 1.md",
-    "30_Dominio_Intelectual/03_Recursos/Processo Legislativo e Legística.md",
     "20_Dominio_Profissional/02_Projetos/SMTRAN_Livro_Digital",
     "30_Dominio_Intelectual/03_Recursos/Questoes_Sessoes",
     "read_pdf_v2.py",
