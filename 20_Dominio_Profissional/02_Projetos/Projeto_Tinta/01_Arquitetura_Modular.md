@@ -23,9 +23,13 @@ Eles herdam a segurança do Sistema Base.
 ### 🎨 Módulo Tintômetro
 - Conecta-se ao Módulo Estoque para checar se há corante suficiente no cilindro da máquina antes de mandar a ordem.
 
-## 3. A Stack Tecnológica Recomendada
-- **Backend (O Cérebro):** Python com o framework `FastAPI`. 
-  - *Motivo:* Python lidera tanto no desenvolvimento ágil de APIs (para o PDV) quanto na matemática científica pesada (Scipy) necessária para a mistura de tintas.
-- **Frontend (A Interface):** `React` empacotado via `Tauri` ou `Electron`.
-  - *Motivo:* Lojas físicas precisam de aplicativos de balcão (Desktop) para poder conversar localmente com impressoras de recibo e máquinas via cabos COM/USB, sem depender 100% da internet.
-- **Banco de Dados:** `PostgreSQL` para a nuvem, com *cache* local (`SQLite`) nas lojas para operações offline críticas.
+## 3. A Stack Tecnológica Definitiva (Otimizada para Hardware Básico)
+O sistema deve rodar perfeitamente como um arquivo `.exe` nativo em máquinas modestas (ex: Intel i3 antigo com 8GB de RAM), sem engasgos.
+
+- **Interface Desktop (Frontend):** `Tauri` (Motor em Rust) + `React`.
+  - *Motivo:* Ao contrário do Electron, o Tauri não embute um navegador pesado. Ele usa o próprio visualizador do Windows (WebView2), reduzindo o consumo de memória para incríveis ~20MB. O visual será de um aplicativo React lindíssimo, responsivo e ultra-fluido.
+- **Backend (O Cérebro Sidecar):** Processo em `Python` empacotado.
+  - *Motivo:* A pesada matemática das tintas (fórmula de Kubelka-Munk) será feita pelo Python (Scipy). O Tauri vai gerenciar o Python como um processo "Sidecar", mantendo-o dormente para economizar CPU, acordando-o apenas quando o módulo de tintometria precisar calcular fórmulas.
+- **Armazenamento e Cloud Backup (Offline-First):**
+  - **Banco Local:** O sistema principal rodará 100% em `SQLite` salvo localmente na máquina, garantindo velocidade instantânea e vendas sem internet.
+  - **Backup na Nuvem:** Uma rotina programada (CRON job) em segundo plano vai enviar/sincronizar todas as notas e movimentações de estoque do dia para um servidor online (ex: PostgreSQL no `Supabase` ou AWS) toda madrugada.
