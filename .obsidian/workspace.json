@@ -11,10 +11,14 @@
             "id": "191712eb626dc59b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Daily_Gravity/2026-07-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-06"
             }
           }
         ]
@@ -232,6 +236,9 @@
   },
   "active": "191712eb626dc59b",
   "lastOpenFiles": [
+    "Daily_Gravity/2026-07-27.md",
+    "30_Dominio_Intelectual/Teste.md",
+    "30_Dominio_Intelectual/Primeiro teste do bot Obsidian.md",
     "90_Sistema/03_Recursos/Bot_Obsidian_WPP.md",
     "Daily_Gravity/2026-07-05.md",
     "30_Dominio_Intelectual/Processo_Legislativo/CCJ e Prazos de Parecer.md",
@@ -258,9 +265,6 @@
     "CCJ e Prazos de Parecer.md",
     "30_Dominio_Intelectual/02_Projetos/Roteiro Mestre - ALE-RR_PARZ.md",
     "20_Dominio_Profissional/02_Projetos/Doc_Especificacao_Sorteio_Insta.md",
-    "Daily_Gravity/2026-07-22.md",
-    "Annalicia_Modas.md",
-    "20_Dominio_Profissional/02_Projetos/Annalicia_Modas.md",
     "90_Sistema/03_Recursos/Backfill_Antigravity.ps1",
     "90_Sistema/03_Recursos/Sync_Antigravity_Obsidian.ps1",
     "30_Dominio_Intelectual/01_Concursos/ALE-RR",
