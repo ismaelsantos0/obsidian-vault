@@ -4,14 +4,14 @@ data_criacao: 2026-04-16
 dominio: 30_Dominio_Intelectual
 sub_categoria: 03_Recursos
 tipo: recurso
-tags: [estudos, ale-rr, legislativo, legistica, central]
-relacionado_a: ["[[Concurso ALE-RR]]"]
+tags: [legislativo, legistica, central]
+relacionado_a: ["[[]]"]
 ---
 
 # 📜 Processo Legislativo e Legística
 
 > [!NOTE]
-> O conteúdo sobre o **Processo Legislativo da ALE-RR** (quóruns, prazos, pegadinhas) está documentado em [[Processo Legislativo ALE-RR]].
+> O conteúdo sobre o **Processo Legislativo da ** (quóruns, prazos, pegadinhas) está documentado em [[Processo Legislativo ]].
 > Este arquivo foca na **Legística Federal** e nas regras gerais da CF/88.
 
 ---
@@ -25,7 +25,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 - Decretos Legislativos e Resoluções
 
 ## 2. LC 95/1998 — Regras de Articulação
-*A FCC cobra a estrutura interna das leis.*
+*A cobra a estrutura interna das leis.*
 
 | Elemento | Símbolo | Uso |
 |:---|:---:|:---|
@@ -36,7 +36,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 | **Item** | 1, 2, 3... | Subdivide a alínea (raro). |
 
 > [!IMPORTANT]
-> **Pegadinha Favorita da FCC:** Parágrafo único NÃO é numerado. Quando existe mais de um parágrafo, usa-se §1°, §2°, etc. O parágrafo único só existe quando é o único.
+> **Pegadinha Favorita da :** Parágrafo único NÃO é numerado. Quando existe mais de um parágrafo, usa-se §1°, §2°, etc. O parágrafo único só existe quando é o único.
 
 ## 3. Tipos de Proposições Legislativas
 - **PEC** — Proposta de Emenda à Constituição
@@ -50,3 +50,4 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 *(Adicione suas anotações de questões erradas aqui)*
 
 ---
+

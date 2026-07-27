@@ -4,8 +4,8 @@ data_criacao: 2026-04-16
 dominio: 30_Dominio_Intelectual
 sub_categoria: 03_Recursos
 tipo: recurso
-tags: [active-recall, revisao, ale-rr, fcc]
-relacionado_a: ["[[Concurso ALE-RR]]"]
+tags: [active-recall, revisao]
+relacionado_a: ["[[]]"]
 ---
 
 # ⚡ Active Recall — Flash Cards por Matéria
@@ -60,25 +60,25 @@ Quais as espécies normativas do Art. 59 CF/88? :: PEC, LC, LO, LD, MP, DL, Reso
 Qual quórum para aprovar LC? :: **Maioria Absoluta**
 Qual quórum para aprovar LO? :: **Maioria Simples**
 Qual quórum para aprovar PEC? :: **3/5** dos membros, em **2 turnos**
-Quantos deputados tem a ALE-RR? :: **24**
-Maioria Absoluta na ALE-RR = quantos deputados? :: **13** (metade + 1 do total de 24)
-3/5 na ALE-RR = quantos deputados? :: **≥ 15**
+Quantos deputados tem a ? :: **24**
+Maioria Absoluta na = quantos deputados? :: **13** (metade + 1 do total de 24)
+3/5 na = quantos deputados? :: **≥ 15**
 Prazo para o Governador vetar? :: **15 dias úteis**
 O que acontece se o Governador não se manifestar em 15 dias? :: **Sanção Tácita** (projeto vira lei)
 Prazo para a ALE votar o veto? :: **30 dias**
-Decretos Legislativos passam pelo Governador? :: **Não.** São promulgados pela Mesa da ALE-RR.
+Decretos Legislativos passam pelo Governador? :: **Não.** São promulgados pela Mesa da .
 Quórum para a PEC na CE-RR? :: **3/5 (15 deputados)** em **2 turnos** com intervalo mínimo de **10 dias**
 
 ---
 
-## 🏛️ Regimento Interno e Estatuto ALE-RR #flashcards/regimento
+## 🏛️ Regimento Interno e Estatuto #flashcards/regimento
 
 Quais os períodos da Sessão Legislativa Ordinária? :: **15/02 a 30/06** e **01/08 a 22/12**
 Qual comissão é obrigatória para TODA proposição? :: **CCJ** (Constituição e Justiça)
 Prazo de parecer em urgência? :: **10 dias**
 Prazo de parecer em prioridade? :: **12 dias**
 Prazo de parecer ordinário? :: **18 dias**
-Quem é o 2º na linha de sucessão do Governador? :: **Presidente da ALE-RR**
+Quem é o 2º na linha de sucessão do Governador? :: **Presidente da **
 Mandato da Mesa Diretora? :: **2 anos**, permitida **1 recondução**
 Após quantos anos o servidor efetivo é estável? :: **3 anos** (estágio probatório)
 Quantos dias de férias tem o servidor? :: **30 dias** anuais
@@ -99,3 +99,4 @@ Quantos municípios tem Roraima? :: **15**
 Qual o principal ecossistema do centro de RR? :: **Lavrado** (savana)
 Roraima faz fronteira com quais países? :: **Venezuela** (N/NO) e **Guiana** (L/NE)
 Qual o ciclo econômico que impulsionou a colonização? :: **Ciclo do Gado** (pecuária no lavrado)
+

@@ -1,8 +1,8 @@
 ---
-titulo: "Mapa Simples: Processo Legislativo (ALE-RR)"
+titulo: "Mapa Simples: Processo Legislativo ()"
 tipo: resumo_simplificado
-tags: [estudo, ale-rr, processo-legislativo, resgate]
-relacionado_a: ["[[Roteiro Mestre - ALE-RR]]", "[[Sessao_01_Processo_Legislativo]]"]
+tags: [estudo, processo-legislativo, resgate]
+relacionado_a: ["[[Roteiro Mestre - ]]", "[[Sessao_01_Processo_Legislativo]]"]
 ---
 
 # 🗺️ Mapa de Resgate: Processo Legislativo (Estilo "Pessoa Comum")
@@ -13,7 +13,7 @@ Este guia foi criado para simplificar os conceitos "nebulosos" usando analogias 
 
 ## 🏠 1. A Analogia da "Grande Família"
 
-Imagine a ALE-RR como uma casa onde todos moram juntos:
+Imagine a como uma casa onde todos moram juntos:
 
 | Tipo de Norma | Analogia da Casa | Como é aprovada? | O Governador apita? |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ Imagine a ALE-RR como uma casa onde todos moram juntos:
 ## 📍 2. Exemplos Reais em Roraima (Para ficar "palpável")
 
 *   **PEC Real:** Recentemente mudaram a forma como as Comissões da Assembleia funcionam. Como isso altera a "regra de ouro" da organização do Estado, teve que ser via PEC.
-*   **Lei Ordinária Real:** **Lei nº 1.912/2023.** Esta lei criou o Plano de Cargos e Salários da ALE-RR. Ou seja, ela define as regras do **seu futuro salário**. Como é uma lei comum, o Governador teve que assinar (Sancionar).
+*   **Lei Ordinária Real:** **Lei nº 1.912/2023.** Esta lei criou o Plano de Cargos e Salários da . Ou seja, ela define as regras do **seu futuro salário**. Como é uma lei comum, o Governador teve que assinar (Sancionar).
 *   **Resolução Real:** Resolução que cria uma homenagem ou medalha para alguém. A Assembleia decide sozinha quem merece a medalha, não precisa pedir permissão ao Governador.
 
 ---
@@ -48,8 +48,9 @@ Se você precisar achar uma regra, siga o endereço:
 ---
 
 > [!TIP]
-> **Dica de Ouro para a FCC:**
+> **Dica de Ouro para a :**
 > Se a questão disser: *"O Governador vetou uma Resolução da Assembleia"*, marque **ERRADO** imediatamente. O Governador só tem poder de veto sobre **LEIS (Ordinárias e Complementares)**. PECs e Resoluções são território exclusivo do Legislativo!
 
 ---
-[[Roteiro Mestre - ALE-RR|⬅️ Voltar ao Roteiro Mestre]]
+[[Roteiro Mestre - |⬅️ Voltar ao Roteiro Mestre]]
+

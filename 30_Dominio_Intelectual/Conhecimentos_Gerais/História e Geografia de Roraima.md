@@ -4,14 +4,14 @@ data_criacao: 2026-04-16
 dominio: 30_Dominio_Intelectual
 sub_categoria: 03_Recursos
 tipo: recurso
-tags: [estudos, ale-rr, roraima, historia, geografia]
-relacionado_a: ["[[Concurso ALE-RR]]"]
+tags: [roraima, historia, geografia]
+relacionado_a: ["[[]]"]
 ---
 
 # 🗺️ História e Geografia de Roraima
 
 > [!NOTE]
-> Este módulo integra o Bloco de Conhecimentos Gerais. A FCC costuma cobrar 3-5 questões sobre RR. Foco nos **fatos datados e marcos legislativos**.
+> Este módulo integra o Bloco de Conhecimentos Gerais. A costuma cobrar 3-5 questões sobre RR. Foco nos **fatos datados e marcos legislativos**.
 
 ---
 
@@ -29,7 +29,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 | **1991** | 1º governo eleito do Estado de Roraima |
 
 > [!IMPORTANT]
-> A FCC adora cobrar a diferença entre **1943 (Território)** e **1988 (Estado)**. São marcos diferentes e frequentemente confundidos.
+> A adora cobrar a diferença entre **1943 (Território)** e **1988 (Estado)**. São marcos diferentes e frequentemente confundidos.
 
 ---
 
@@ -88,7 +88,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 - **Área:** ~224.300 km² (5º maior estado em área).
 - **Municípios:** 15 municípios.
 - **Representação no CN:** 3 Senadores + 8 Deputados Federais.
-- **ALE-RR:** 24 Deputados Estaduais.
+- **:** 24 Deputados Estaduais.
 
 ---
 
@@ -100,3 +100,4 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 - **Q:** Qual o principal rio de RR? **R:** Rio Branco (afluente do Rio Negro).
 - **Q:** Quantos municípios tem RR? **R:** 15.
 - **Q:** Qual a única capital ao Norte do equador? **R:** Boa Vista.
+

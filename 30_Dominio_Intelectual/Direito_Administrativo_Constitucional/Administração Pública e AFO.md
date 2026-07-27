@@ -5,14 +5,14 @@ data_revisao: 2026-04-17
 dominio: 30_Dominio_Intelectual
 sub_categoria: 03_Recursos
 tipo: recurso
-tags: [estudos, ale-rr, administracao, afo, central]
-relacionado_a: ["[[Concurso ALE-RR]]"]
+tags: [administracao, afo, central]
+relacionado_a: ["[[]]"]
 ---
 
 # 🏢 Administração Pública e AFO
 
 > [!IMPORTANT]
-> **Peso máximo na prova.** A FCC cobra AFO quase 100% na **letra das leis**: Art. 165-169 CF/88 e Lei 4.320/64. Mas entender o **porquê** de cada regra te protege das pegadinhas de reescritura.
+> **Peso máximo na prova.** A cobra AFO quase 100% na **letra das leis**: Art. 165-169 CF/88 e Lei 4.320/64. Mas entender o **porquê** de cada regra te protege das pegadinhas de reescritura.
 
 ---
 
@@ -44,7 +44,7 @@ Pense assim: o **PPA é o mapa** da viagem dos próximos 4 anos. A **LDO é o ro
 
 **Prazo de envio ao Legislativo:** Até **31 de agosto** do 1º ano de mandato.
 
-**O que a FCC cobra:** Vigência (4 anos), prazo (31/ago), e o fato de que **programas de duração continuada precisam estar no PPA** para serem autorizados.
+**O que a cobra:** Vigência (4 anos), prazo (31/ago), e o fato de que **programas de duração continuada precisam estar no PPA** para serem autorizados.
 
 ---
 
@@ -59,7 +59,7 @@ Pense assim: o **PPA é o mapa** da viagem dos próximos 4 anos. A **LDO é o ro
 **Prazo de envio:** Até **15 de abril** (o prazo mais cedo dos três — para que o Legislativo a aprove a tempo de orientar a elaboração da LOA).
 
 > [!IMPORTANT]
-> **Regra de ouro que a FCC ama:** A **sessão legislativa NÃO pode ser encerrada sem a aprovação da LDO** (CF/88, Art. 57, §2º). Isso não se aplica à LOA. Se a LOA não for aprovada até 31/12, o governo pode usar "avos" do orçamento anterior.
+> **Regra de ouro que a ama:** A **sessão legislativa NÃO pode ser encerrada sem a aprovação da LDO** (CF/88, Art. 57, §2º). Isso não se aplica à LOA. Se a LOA não for aprovada até 31/12, o governo pode usar "avos" do orçamento anterior.
 
 **Mnemônico:** LDO = **"L**ei das **D**iretrizes para a **O**rçamentária" → ela **dirige** a LOA.
 
@@ -96,7 +96,7 @@ Pense assim: o **PPA é o mapa** da viagem dos próximos 4 anos. A **LDO é o ro
 
 ## 3. Princípios Orçamentários
 
-A FCC cobra princípios orçamentários separados dos princípios administrativos. São regras que a LOA deve obedecer:
+A cobra princípios orçamentários separados dos princípios administrativos. São regras que a LOA deve obedecer:
 
 | Princípio | O que significa | Exemplo de violação |
 |:---|:---|:---|
@@ -175,13 +175,13 @@ EMPENHO → LIQUIDAÇÃO → PAGAMENTO
 
 ### Estágios Adicionais (doutrina — menos cobrado)
 
-Alguns autores e concursos mais avançados cobram 5 estágios, incluindo antes do empenho:
+Alguns autores e s mais avançados cobram 5 estágios, incluindo antes do empenho:
 
 ```
 PROGRAMAÇÃO → LICITAÇÃO → EMPENHO → LIQUIDAÇÃO → PAGAMENTO
 ```
 
-Mas para a FCC nível médio, os **3 estágios** (Empenho → Liquidação → Pagamento) são o padrão cobrado.
+Mas para a nível médio, os **3 estágios** (Empenho → Liquidação → Pagamento) são o padrão cobrado.
 
 ---
 
@@ -258,7 +258,7 @@ A LOA é aprovada em agosto/dezembro para o ano seguinte. Mas o que acontece qua
 | **Extraordinário** | Despesas **urgentes e imprevisíveis** (guerra, calamidade) | **Medida Provisória** (União) ou Decreto | **Não** |
 
 > [!IMPORTANT]
-> **Crédito Extraordinário** é a exceção que a FCC adora cobrar: é o único que **não precisa de fonte de recursos** previamente identificada e pode ser aberto por **Medida Provisória**. Exemplos: enchentes, pandemia.
+> **Crédito Extraordinário** é a exceção que a adora cobrar: é o único que **não precisa de fonte de recursos** previamente identificada e pode ser aberto por **Medida Provisória**. Exemplos: enchentes, pandemia.
 
 ---
 
@@ -276,7 +276,7 @@ A administração pública brasileira passou por 3 modelos, cada um surgindo com
 **2. Burocracia Weberiana (1930 em diante — DASP)**
 - Resposta ao patrimonialismo. Regras rígidas, hierarquia, **meritocracia**, carreira profissional.
 - **Princípios:** Impessoalidade, formalidade, especialização, hierarquia.
-- **Conquista:** O concurso público nasce aqui.
+- **Conquista:** O público nasce aqui.
 - **Problema:** Excesso de normas → lentidão, rigidez, foco no processo em vez do resultado.
 
 **3. Nova Gestão Pública / Gerencial (1990 em diante — Bresser-Pereira)**
@@ -286,7 +286,7 @@ A administração pública brasileira passou por 3 modelos, cada um surgindo com
 - **Problema:** Risco de privatização excessiva dos serviços públicos.
 
 > [!NOTE]
-> **Para a prova:** A FCC não cobra tanto a história quanto as **características** de cada modelo. Saiba associar: **patrimonialismo = nepotismo**, **burocracia = rigidez/processo**, **gerencial = resultado/eficiência**.
+> **Para a prova:** A não cobra tanto a história quanto as **características** de cada modelo. Saiba associar: **patrimonialismo = nepotismo**, **burocracia = rigidez/processo**, **gerencial = resultado/eficiência**.
 
 ---
 
@@ -314,7 +314,7 @@ Planejar  Fazer  Verificar  Agir/Corrigir
 
 ### 8.1 Por Que Arquivologia Cai em Prova de Assistente Legislativo?
 
-Porque a função de assistente legislativo envolve **gestão de documentos** — protocolos, projetos de lei, atas, ofícios. A FCC cobra os conceitos da **Lei 8.159/91 (Política Nacional de Arquivos)**.
+Porque a função de assistente legislativo envolve **gestão de documentos** — protocolos, projetos de lei, atas, ofícios. A cobra os conceitos da **Lei 8.159/91 (Política Nacional de Arquivos)**.
 
 ---
 
@@ -412,7 +412,7 @@ Antes da LRF, governadores e prefeitos gastavam além do orçamento, criavam dí
 | **RGF** (Relatório de Gestão Fiscal) | Gasto com pessoal, dívida consolidada, garantias | **Todos os Poderes** | Quadrimestral (Exec.) / **Semestral** (Leg. e Jud.) | 30 dias após o período |
 
 > [!IMPORTANT]
-> **RREO = Bimestral (Executivo).** **RGF = Quadrimestral/Semestral (Todos).** A FCC sempre tenta inverter esses prazos.
+> **RREO = Bimestral (Executivo).** **RGF = Quadrimestral/Semestral (Todos).** A sempre tenta inverter esses prazos.
 
 ---
 
@@ -427,13 +427,13 @@ Antes da LRF, governadores e prefeitos gastavam além do orçamento, criavam dí
 | **Municípios** | **60% da RCL** |    54%    |      **6%**       |
 
 > [!IMPORTANT]
-> **Para a ALE-RR:** Como órgão legislativo estadual, o limite é **3% da RCL do Estado de Roraima**.
+> **Para a :** Como órgão legislativo estadual, o limite é **3% da RCL do Estado de Roraima**.
 
 **O que acontece quando os limites são ultrapassados?**
 
 ```
 90% do limite → ALERTA (TCE/TCU notifica)
-95% do limite → PRUDENCIAL (veda: novos cargos, hora extra, promoções, concurso)
+95% do limite → PRUDENCIAL (veda: novos cargos, hora extra, promoções, )
 100% do limite → LIMITE (veda admissões + deve reduzir 1/3 do excesso em 1 quadrimestre)
 ```
 
@@ -463,3 +463,4 @@ A LRF protege o próximo governante de herdar dívidas do predecessor:
 
 ## 📝 Resumos e Anotações de Erros
 *(Registre aqui os erros de questões desta disciplina)*
+

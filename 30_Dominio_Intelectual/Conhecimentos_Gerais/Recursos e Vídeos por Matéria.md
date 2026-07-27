@@ -4,11 +4,11 @@ data_criacao: 2026-04-17
 dominio: 30_Dominio_Intelectual
 sub_categoria: 03_Recursos
 tipo: recurso
-tags: [estudos, ale-rr, youtube, videos, recursos]
-relacionado_a: ["[[Concurso ALE-RR]]"]
+tags: [youtube, videos, recursos]
+relacionado_a: ["[[]]"]
 ---
 
-# 🎬 Recursos e Vídeos por Matéria — ALE-RR 2026
+# 🎬 Recursos e Vídeos por Matéria — 2026
 
 > [!TIP]
 > **Como usar este arquivo:** Antes de ler o resumo do dia, assista 1 aula do YouTube para ter a base auditiva. Depois leia o arquivo do vault como revisão. **Não substitua um pelo outro — use os dois.**
@@ -26,17 +26,17 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Prof. Sandro Bernardes** (Estratégia Concursos) | O mais didático do Brasil em AFO. Usa exemplos do dia a dia para explicar PPA, LDO e LOA. | Iniciantes e intermediários |
+| **Prof. Sandro Bernardes** (Estratégia s) | O mais didático do Brasil em AFO. Usa exemplos do dia a dia para explicar PPA, LDO e LOA. | Iniciantes e intermediários |
 | **Murillo Olivieri** (Gran Cursos) | Abordagem mais técnica e aprofundada. Bom para LRF e ciclo da despesa. | Quem já tem base e quer ir fundo |
 | **Leonardo Monteiro** (Aprovação Total) | Lives e resolução de questões comentadas. | Fixação e engenharia reversa |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "AFO para concurso FCC Sandro Bernardes"
-🔎 "PPA LDO LOA diferença concurso público"
-🔎 "ciclo da despesa empenho liquidação pagamento concurso"
-🔎 "LRF RREO RGF concurso público"
+🔎 "AFO para Sandro Bernardes"
+🔎 "PPA LDO LOA diferença público"
+🔎 "ciclo da despesa empenho liquidação pagamento "
+🔎 "LRF RREO RGF público"
 🔎 "créditos adicionais suplementar especial extraordinário"
 ```
 
@@ -52,24 +52,24 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 ## 📜 Processo Legislativo
 
-**Arquivo de estudo:** [[Processo Legislativo ALE-RR]] + [[Processo Legislativo e Legística]]
+**Arquivo de estudo:** [[Processo Legislativo ]] + [[Processo Legislativo e Legística]]
 
 ### 🎯 Canais Recomendados
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Prof. Nádia Carolina** (Estratégia Concursos) | Especialista em processo legislativo para concursos de órgãos parlamentares. | Tudo relacionado ao Legislativo |
+| **Prof. Nádia Carolina** (Estratégia s) | Especialista em processo legislativo para s de órgãos parlamentares. | Tudo relacionado ao Legislativo |
 | **Prof. Artur Tavares** (Gran Cursos) | Foco na Constituição Federal e processo legislativo estadual | Conexão CF/88 com legislação estadual |
 | **Canal Oficial da Câmara dos Deputados** | Explica o processo legislativo de forma prática e visual — produção profissional | Entender o fluxo real de um PL |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "processo legislativo federal concurso público"
-🔎 "quórum aprovação lei ordinária complementar PEC concurso"
+🔎 "processo legislativo federal público"
+🔎 "quórum aprovação lei ordinária complementar PEC "
 🔎 "como funciona uma Assembleia Legislativa estadual"
-🔎 "LC 95/98 legística concurso público"
-🔎 "veto presidencial derrubada concurso"
+🔎 "LC 95/98 legística público"
+🔎 "veto presidencial derrubada "
 ```
 
 ### 📌 Playlist Ideal
@@ -90,18 +90,18 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Prof. Gustavo Muller** (Estratégia Concursos) | Um dos melhores do país em Direito Administrativo para FCC. Linguagem simples. | LIMPE, atos, poderes |
+| **Prof. Gustavo Muller** (Estratégia s) | Um dos melhores do país em Direito Administrativo para . Linguagem simples. | LIMPE, atos, poderes |
 | **Prof. Rodrigo Motta** (Gran Cursos) | Muito didático em serviços públicos, contratos e licitação | Licitação e contratos |
-| **Prof. Vítor Cruz** (QConcursos) | Foco total no padrão FCC. Muita resolução de questão. | Quem quer entender o que a FCC cobra |
+| **Prof. Vítor Cruz** (Qs) | Foco total no padrão . Muita resolução de questão. | Quem quer entender o que a cobra |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "princípios LIMPE administração pública concurso FCC"
-🔎 "atos administrativos atributos categorias concurso"
-🔎 "revogação anulação convalidação diferença concurso"
-🔎 "licitação modalidades Lei 8666 14133 concurso"
-🔎 "administração direta indireta autarquia empresa pública concurso"
+🔎 "princípios LIMPE administração pública "
+🔎 "atos administrativos atributos categorias "
+🔎 "revogação anulação convalidação diferença "
+🔎 "licitação modalidades Lei 8666 14133 "
+🔎 "administração direta indireta autarquia empresa pública "
 ```
 
 ### 📌 Playlist Ideal
@@ -123,19 +123,19 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Prof. Diego Carvalho** (Estratégia Concursos) | Referência nacional. Cobre Windows, Office, Internet, Redes e Segurança com foco em FCC. | Tudo de informática |
+| **Prof. Diego Carvalho** (Estratégia s) | Referência nacional. Cobre Windows, Office, Internet, Redes e Segurança com foco em . | Tudo de informática |
 | **Prof. Fabrício Melo** (Gran Cursos) | Excelente em segurança da informação e redes. | Segurança digital, malwares |
-| **Prof. Victor Dalton** (Estratégia Concursos) | Especialista em questões práticas de Excel e Word | Microsoft Office |
+| **Prof. Victor Dalton** (Estratégia s) | Especialista em questões práticas de Excel e Word | Microsoft Office |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "informática para concurso público FCC Diego Carvalho"
-🔎 "atalhos Windows 10 concurso público"
-🔎 "Excel fórmulas SOMA MÉDIA SE concurso"
-🔎 "segurança da informação vírus worm ransomware concurso"
-🔎 "protocolo SMTP POP3 IMAP diferença concurso"
-🔎 "Google Workspace Drive Docs concurso público 2024"
+🔎 "informática para público Diego Carvalho"
+🔎 "atalhos Windows 10 público"
+🔎 "Excel fórmulas SOMA MÉDIA SE "
+🔎 "segurança da informação vírus worm ransomware "
+🔎 "protocolo SMTP POP3 IMAP diferença "
+🔎 "Google Workspace Drive Docs público 2024"
 ```
 
 ### 📌 Playlist Ideal
@@ -160,15 +160,15 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Concurso Roraima** (canais locais) | Conteúdo específico sobre RR para candidatos locais. Procure por "concurso ALE-RR" ou "concurso RR" | Legislação e história local |
+| **Roraima** (canais locais) | Conteúdo específico sobre RR para candidatos locais. Procure por "" ou "RR" | Legislação e história local |
 | **Prof. Rodrigo Motta** (Geografia) | Bom para aspectos regionais do Norte e Amazônia | Relevo, hidrografia, biomas |
 | **Geobrasil / Stoodi** | Conteúdo de geografia regional do Brasil | Localização, fronteiras, população |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "história de Roraima concurso público"
-🔎 "geografia de Roraima Rio Branco concurso"
+🔎 "história de Roraima público"
+🔎 "geografia de Roraima Rio Branco "
 🔎 "formação território federal Roraima 1943"
 🔎 "Monte Roraima ponto mais alto Brasil"
 🔎 "lavrado Roraima ecossistema"
@@ -192,19 +192,19 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Prof. Elias Santana** (Estratégia Concursos) | Especialista em Português para FCC. Foca nos padrões exatos da banca. | Tudo — primeira escolha |
+| **Prof. Elias Santana** (Estratégia s) | Especialista em Português para . Foca nos padrões exatos da banca. | Tudo — primeira escolha |
 | **Profª Flávia Rita** (Gran Cursos) | Muito boa em interpretação de texto e gramática aplicada | Interpretação e reescritura |
 | **Prof. Fernando Pestana** (Pestana do Português) | Canal independente, profundo demais para nível médio, mas excelente para tirar dúvidas | Dúvidas pontuais de gramática |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "português FCC padrão concurso nível médio Elias Santana"
-🔎 "reescritura de frases FCC concurso público"
-🔎 "vozes verbais ativa passiva concurso público FCC"
-🔎 "conjunções conectivos valor semântico concurso"
-🔎 "colocação pronominal ênclise próclise concurso FCC"
-🔎 "interpretação de texto FCC concurso público técnica"
+🔎 "português padrão nível médio Elias Santana"
+🔎 "reescritura de frases público"
+🔎 "vozes verbais ativa passiva público "
+🔎 "conjunções conectivos valor semântico "
+🔎 "colocação pronominal ênclise próclise "
+🔎 "interpretação de texto público técnica"
 ```
 
 ### 📌 Playlist Ideal
@@ -228,19 +228,19 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Prof. Thiago Rodrigues** (Estratégia Concursos) | Ótimo para RL clássico: silogismo, lógica proposicional | Lógica formal |
+| **Prof. Thiago Rodrigues** (Estratégia s) | Ótimo para RL clássico: silogismo, lógica proposicional | Lógica formal |
 | **Prof. Arthur Lima** (Gran Cursos) | Excelente em matemática financeira e porcentagem | Porcentagem, juros, razão e proporção |
-| **Prof. João Paulo Chaves** (Direção Concursos) | Foco em questões da FCC especificamente | Padrão FCC de RL |
+| **Prof. João Paulo Chaves** (Direção s) | Foco em questões da especificamente | Padrão de RL |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "raciocínio lógico FCC nível médio concurso público"
-🔎 "lógica proposicional negação contrapositiva concurso"
-🔎 "porcentagem para concurso público rápido"
-🔎 "sistemas de equações concurso público FCC"
-🔎 "progressão aritmética geométrica concurso"
-🔎 "probabilidade combinatória concurso nível médio"
+🔎 "raciocínio lógico nível médio público"
+🔎 "lógica proposicional negação contrapositiva "
+🔎 "porcentagem para público rápido"
+🔎 "sistemas de equações público "
+🔎 "progressão aritmética geométrica "
+🔎 "probabilidade combinatória nível médio"
 ```
 
 ### 📌 Playlist Ideal
@@ -256,26 +256,24 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 ---
 
-## 🏛️ Legislação Institucional ALE-RR
-
-**Arquivo de estudo:** [[Legislação Institucional (ALE-RR)]]
+## 🏛️ Legislação Institucional **Arquivo de estudo:** [[Legislação Institucional ()]]
 
 ### 🎯 Canais Recomendados
 
 | Canal | Por que assistir | Melhor para |
 |:---|:---|:---|
-| **Canais de Estatuto dos Servidores** | Procure: "estatuto servidor público estadual concurso" | Estatuto LCE 053/2001 |
+| **Canais de Estatuto dos Servidores** | Procure: "estatuto servidor público estadual " | Estatuto LCE 053/2001 |
 | **Prof. Nádia Carolina** (Processo Legislativo) | Para a parte do Regimento Interno e processo legislativo estadual | Regimento Interno |
-| **Canal oficial da ALE-RR** (YouTube) | A própria Assembleia pode ter vídeos sobre seu funcionamento | Entender o ambiente real |
+| **Canal oficial da ** (YouTube) | A própria Assembleia pode ter vídeos sobre seu funcionamento | Entender o ambiente real |
 
 ### 🔗 Pesquisas Sugeridas no YouTube
 
 ```
-🔎 "estatuto servidores públicos concurso FCC"
-🔎 "licença gestante paternidade servidor público concurso"
-🔎 "regime disciplinar servidor público demissão concurso"
-🔎 "regimento interno assembleia legislativa concurso"
-🔎 "sessão legislativa ordinária extraordinária concurso"
+🔎 "estatuto servidores públicos "
+🔎 "licença gestante paternidade servidor público "
+🔎 "regime disciplinar servidor público demissão "
+🔎 "regimento interno assembleia legislativa "
+🔎 "sessão legislativa ordinária extraordinária "
 ```
 
 ---
@@ -284,13 +282,14 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 | App | Usar para |
 |:---|:---|
-| **QConcursos** | Resolver questões por matéria e banca (FCC). Principal ferramenta de prática. |
+| **Qs** | Resolver questões por matéria e banca (). Principal ferramenta de prática. |
 | **Anki** | Criar flashcards digitais a partir dos erros. Ótimo para memorização espaçada. |
 | **Gran Cursos Online** (versão free) | Assistir aulas gratuitas das primeiras semanas dos cursos |
-| **Estratégia Concursos** (versão free) | Aulas gratuitas e simulados |
+| **Estratégia s** (versão free) | Aulas gratuitas e simulados |
 | **YouTube** | Canais listados acima |
 
 ---
 
 > [!TIP]
-> **Rotina ideal:** 15 min de vídeo (YouTube) → 45 min de leitura do arquivo do vault → 60 min de questões no QConcursos. Total: 2h por dia.
+> **Rotina ideal:** 15 min de vídeo (YouTube) → 45 min de leitura do arquivo do vault → 60 min de questões no Qs. Total: 2h por dia.
+

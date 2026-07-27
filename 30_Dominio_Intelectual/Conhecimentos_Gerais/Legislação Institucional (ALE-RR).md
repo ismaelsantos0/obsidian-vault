@@ -1,28 +1,26 @@
 ---
-titulo: "Legislação Institucional (ALE-RR)"
+titulo: "Legislação Institucional ()"
 data_criacao: 2026-04-16
 dominio: 30_Dominio_Intelectual
 sub_categoria: 03_Recursos
 tipo: recurso
-tags: [estudos, ale-rr, legislacao, central]
-relacionado_a: ["[[Concurso ALE-RR]]"]
+tags: [legislacao, central]
+relacionado_a: ["[[]]"]
 ---
 
-# 🏛️ Legislação Institucional (ALE-RR)
+# 🏛️ Legislação Institucional ()
 
 > [!IMPORTANT]
 > **O módulo mais específico e diferencial da prova.** Candidatos de fora de RR geralmente erram mais aqui. Estude com atenção.
-> Ver também: [[Processo Legislativo ALE-RR]] para quóruns e procedimentos.
+> Ver também: [[Processo Legislativo ]] para quóruns e procedimentos.
 
 ---
 
-## 1. Estrutura da ALE-RR
-
-- **24 Deputados Estaduais** (art. 27 CF/88: mínimo 24, máximo 72 × nº senadores).
+## 1. Estrutura da - **24 Deputados Estaduais** (art. 27 CF/88: mínimo 24, máximo 72 × nº senadores).
 - **Legislatura:** 4 anos.
 - **Mesa Diretora:** Presidente, 1º e 2º Vice-Presidentes, 1º e 2º Secretários.
   - Eleita no 1º ano → mandato de **2 anos**, permitida 1 recondução.
-- **Presidente da Mesa = Presidente da ALE-RR** (2ª na linha de sucessão do Governador).
+- **Presidente da Mesa = Presidente da ** (2ª na linha de sucessão do Governador).
 
 ---
 
@@ -59,10 +57,10 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 ---
 
-## 3. Estatuto dos Servidores da ALE-RR (LCE nº 053/2001)
+## 3. Estatuto dos Servidores da (LCE nº 053/2001)
 
 ### Provimento de Cargos
-- **Efetivos:** Aprovação em **concurso público** (provas ou provas + títulos).
+- **Efetivos:** Aprovação em **público** (provas ou provas + títulos).
 - **Em Comissão:** Livre nomeação e exoneração.
 - **Efetivação:** após **3 anos** de exercício (estágio probatório).
 
@@ -97,3 +95,4 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 ## 📝 Resumos e Anotações de Erros
 *(Registre aqui os erros de questões desta disciplina)*
+

@@ -1,17 +1,17 @@
 ---
-titulo: "Informática Aplicada (Padrão FCC Atual)"
+titulo: "Informática Aplicada (Padrão Atual)"
 data_criacao: 2026-04-17
 dominio: 30_Dominio_Intelectual
 sub_categoria: 03_Recursos
 tipo: recurso
-tags: [estudos, ale-rr, informatica, fcc]
-relacionado_a: ["[[Concurso ALE-RR]]"]
+tags: [informatica]
+relacionado_a: ["[[]]"]
 ---
 
-# 💻 Informática Aplicada — Padrão FCC 2022-2026
+# 💻 Informática Aplicada — Padrão 2022-2026
 
 > [!IMPORTANT]
-> O padrão mudou. A FCC saiu do **Windows XP / Office 2003** e passou a cobrar **Microsoft 365, Google Workspace, segurança digital e nuvem**. Questões sobre "formatar disquete" não caem mais.
+> O padrão mudou. A saiu do **Windows XP / Office 2003** e passou a cobrar **Microsoft 365, Google Workspace, segurança digital e nuvem**. Questões sobre "formatar disquete" não caem mais.
 
 ---
 
@@ -39,7 +39,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 
 ## 2. Sistemas Operacionais
 
-### Windows 10/11 (Padrão atual FCC)
+### Windows 10/11 (Padrão atual )
 | Atalho | Função |
 |:---:|:---|
 | `Ctrl + C / V / X` | Copiar / Colar / Recortar |
@@ -103,7 +103,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 - **Congelar Painéis:** Exibição → Congelar Painéis. Fixa linhas/colunas na tela.
 
 > [!IMPORTANT]
-> **Pegadinha Excel FCC:** Ao arrastar uma fórmula pela alça de preenchimento, as referências relativas mudam automaticamente. `=A1+B1` se torna `=A2+B2` na linha seguinte.
+> **Pegadinha Excel :** Ao arrastar uma fórmula pela alça de preenchimento, as referências relativas mudam automaticamente. `=A1+B1` se torna `=A2+B2` na linha seguinte.
 
 ### PowerPoint
 - **Slide Mestre:** Define o layout padrão de todos os slides.
@@ -163,7 +163,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 | **IMAP** | **Recebimento** — sincroniza e-mails no servidor (acesso em múltiplos dispositivos) |
 
 > [!IMPORTANT]
-> **Diferença POP3 vs IMAP:** POP3 baixa e apaga do servidor. IMAP mantém no servidor e sincroniza. A FCC adora essa distinção.
+> **Diferença POP3 vs IMAP:** POP3 baixa e apaga do servidor. IMAP mantém no servidor e sincroniza. A adora essa distinção.
 
 ---
 
@@ -174,8 +174,7 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 - **I**ntegridade — Dado não foi alterado indevidamente.
 - **D**isponibilidade — Sistema acessível quando necessário.
 
-### Ameaças mais cobradas pela FCC
-| Ameaça | O que é |
+### Ameaças mais cobradas pela | Ameaça | O que é |
 |:---|:---|
 | **Vírus** | Código malicioso que se replica anexando-se a arquivos. Precisa de ação do usuário para se propagar. |
 | **Worm** | Se propaga sozinho pela rede, sem precisar de arquivo hospedeiro. |
@@ -236,3 +235,4 @@ relacionado_a: ["[[Concurso ALE-RR]]"]
 | Fórmula de soma no Excel? | `=SOMA(A1:A10)` |
 | Google Docs salva automaticamente? | **Sim**, na nuvem, sem precisar do Ctrl+S. |
 | Worm vs Vírus? | Vírus precisa de hospedeiro. Worm se propaga sozinho pela rede. |
+
