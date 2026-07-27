@@ -1,0 +1,1 @@
+Primeiro teste do bot Obsidian funcionando perfeitamente! Convertido pelo Code!
