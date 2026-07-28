@@ -1,205 +1,77 @@
-# 🤖 Bot Obsidian via WhatsApp
+﻿# 🤖 Bot Obsidian via WhatsApp (V2 Avançado)
 
-> **Objetivo:** Criar um assistente pessoal que permite ler, criar e consultar o vault do Obsidian via WhatsApp, ativando APENAS para o número do dono.
-
----
-
-## 1. ARQUITETURA GERAL
-
-```
-Você (WhatsApp) 
-    → ConectaZap (Evolution API) 
-        → Webhook N8N 
-            → Filtro de Número (IF)
-                → Agente IA (Gemini)
-                    → GitHub API (Obsidian Vault)
-                        → Resposta via WhatsApp
-```
+> **Objetivo:** Assistente pessoal com inteligência artificial capaz de transcrever áudios, analisar links, buscar lembretes e salvar notas no Obsidian via GitHub API.
 
 ---
 
-## 2. PRÉ-REQUISITOS
+## 1. ARQUITETURA GERAL (V2)
 
-| Item | Detalhe |
+```mermaid
+graph TD
+    A[WhatsApp] --> B[ConectaZap Evolution API]
+    B --> C[Webhook N8N]
+    C --> D{Filtro de Número Autorizado}
+    D -->|True| E{Switch Tipo Mensagem}
+    
+    %% Ramificações do Switch
+    E -->|Áudio| F[Baixar Áudio]
+    F --> G[Transcrição OpenAI Whisper / Groq]
+    G --> H[Notificar WhatsApp: Como salvar?]
+    H --> I[Wait for Webhook]
+    
+    E -->|Texto / Link| J[Gemini AI Agente]
+    
+    J --> K{Switch Intenção}
+    K -->|Criar/Adicionar| L[GitHub PUT Nota]
+    K -->|Lembretes| M[GitHub GET Tasks do Dia/Semana]
+    K -->|Análise Link| N[HTTP Request Scraper]
+    N --> O[Gemini Resumo]
+    O --> L
+    
+    L --> P[Retorna Sucesso WhatsApp]
+    M --> P
+    I --> J
+```
+
+---
+
+## 2. NOVOS COMANDOS MAPEADOS (Intenções do Gemini)
+
+| Comando / Intenção | O que acontece |
 |---|---|
-| **Instância WhatsApp** | Criar instância separada no ConectaZap para o bot pessoal |
-| **Seu número autorizado** | `5595XXXXXXX` (formato: DDI+DDD+Número) |
-| **N8N** | Servidor próprio já rodando |
-| **GitHub Token** | Personal Access Token com permissão `repo` |
-| **Repositório** | `ismaelsantos0/obsidian-vault` |
-| **Gemini API Key** | Para o Agente IA interpretar as mensagens |
+| `/salva` ou conversa livre | Cria nota no Domínio Intelectual |
+| `/daily` | Adiciona entrada no log da Daily Note de hoje |
+| `/lembrete hoje` ou `/lembrete semana` | Busca e retorna tarefas abertas (`- [ ]`) nas Daily Notes ou Painéis. |
+| `/analise [Link]` | O bot acessa a URL, extrai o conteúdo da página, resume e salva no Vault. |
+| `[Áudio enviado]` | Bot transcreve o áudio automaticamente e pergunta em qual pasta você quer salvar. |
 
 ---
 
-## 3. FLUXO N8N (Passo a Passo)
+## 3. CONFIGURAÇÕES DOS NOVOS NÓS (N8N)
 
-### NÓ 1: Webhook (Entrada)
-- **Tipo:** Webhook
-- **Método:** POST
-- **URL gerada:** `https://seu-n8n.com/webhook/bot-obsidian`
-- **Ação:** Configurar essa URL no ConectaZap como Webhook da instância do bot.
+### A. Transcrição de Áudio (Áudio Node)
+- **Pré-requisito:** Obter a URL de download do áudio no payload do ConectaZap.
+- **Nó de HTTP Request:** Fazer GET na URL do áudio passando o Header `apikey: SUA_API_KEY_CONECTAZAP`.
+- **Nó OpenAI / Groq:** Usar o nó nativo de IA (ou HTTP Request para API Whisper) passando o arquivo binário recebido para transcrição (`speech-to-text`).
+- **Nó Wait (Esperar Resposta):** O N8N enviará uma mensagem *"Áudio transcrito: [TEXTO]. Digite 1 para Daily, 2 para Pessoal..."*. O nó Wait pausará o fluxo aguardando o ConectaZap bater num Webhook temporário com a resposta.
 
----
+### B. Sistema de Lembretes (GitHub GET Node)
+- O Gemini deverá classificar a intenção como `buscar_lembretes`.
+- **Nó HTTP Request (GitHub API):**
+  - **Método:** GET
+  - **URL (Hoje):** `https://api.github.com/repos/ismaelsantos0/obsidian-vault/contents/Daily_Gravity/YYYY-MM-DD.md`
+- **Nó JavaScript (Filtro):** Decodifica o base64 retornado pelo GitHub e usa Regex `/- \[ \].*/g` para capturar apenas as tarefas não concluídas.
 
-### NÓ 2: Filtro de Número (Segurança)
-- **Tipo:** IF
-- **Condição:**
-```
-{{ $json.body.data.key.remoteJid }} == "5595XXXXXXX@s.whatsapp.net"
-```
-- **TRUE → Segue para o NÓ 3**
-- **FALSE → Nó "NoOp" (ignora tudo)**
-
-> ⚠️ **IMPORTANTE:** O formato do número no Evolution API é sempre:
-> `5595XXXXXXX@s.whatsapp.net` (sem traços ou espaços)
-
----
-
-### NÓ 3: Identificar Tipo de Mensagem
-- **Tipo:** Switch
-- **Campo:** `{{ $json.body.data.messageType }}`
-
-| Tipo (`messageType`) | Ação |
-|---|---|
-| `conversation` ou `extendedTextMessage` | → Texto simples |
-| `documentMessage` ou `documentWithCaptionMessage` | → PDF/Arquivo |
-| `audioMessage` | → Áudio (transcrever) |
-| `imageMessage` | → Imagem com legenda |
+### C. Análise de Link Web Scraping
+- O Gemini classifica a intenção como `analise_link` e extrai a `url` para um campo JSON separado.
+- **Nó HTTP Request / HTML Extract:**
+  - Baixa o HTML da URL recebida.
+  - O HTML Extract Node extrai apenas as tags `<p>`, `<h1>`, `<h2>`.
+- **Nó Gemini 2 (Resumo):** Recebe o texto extraído da web e faz a sumarização antes de enviar para o nó final de salvar no Obsidian.
 
 ---
 
-### NÓ 4A: Processar Texto
-- **Tipo:** Code (JavaScript)
-```javascript
-// Extrai o texto da mensagem
-const msg = $json.body.data.message;
-const text = msg.conversation 
-  || msg.extendedTextMessage?.text 
-  || msg.imageMessage?.caption 
-  || "";
-
-return { text: text.trim() };
-```
-
----
-
-### NÓ 4B: Processar PDF
-- **Tipo:** HTTP Request
-- **Ação:** Baixar o arquivo do Evolution API
-```
-GET {{ $json.body.data.message.documentMessage.url }}
-Headers: { apikey: "SUA_API_KEY_CONECTAZAP" }
-```
-- **Próximo nó:** Chamar o script `read_pdf.py` ou usar o nó de Code com biblioteca de PDF.
-
----
-
-### NÓ 5: Agente IA (Gemini) — O Cérebro
-- **Tipo:** HTTP Request (POST para a API Gemini)
-- **URL:** `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent`
-
-**System Prompt do Agente:**
-```
-Você é o assistente pessoal de Ismael. Você tem acesso ao vault do Obsidian dele.
-
-Ao receber uma mensagem, você deve identificar a INTENÇÃO e retornar um JSON:
-
-{
-  "acao": "criar_nota" | "buscar" | "adicionar_em_nota" | "daily_note",
-  "pasta": "pasta onde salvar (ex: 30_Dominio_Intelectual)",
-  "titulo": "nome do arquivo sem .md",
-  "conteudo": "conteúdo markdown para salvar",
-  "query": "termo de busca (apenas para ação buscar)"
-}
-
-EXEMPLOS DE INTENÇÕES:
-- "Salva isso no Obsidian: X" → criar_nota
-- "Adiciona isso no Projeto Tinta: X" → adicionar_em_nota  
-- "O que eu sei sobre X?" → buscar
-- "Adiciona na daily de hoje: X" → daily_note
-
-PASTAS DISPONÍVEIS:
-- 10_Dominio_Pessoal → Assuntos pessoais
-- 20_Dominio_Profissional/02_Projetos → Projetos
-- 30_Dominio_Intelectual → Conhecimento e estudo
-- Daily_Gravity → Diário diário
-- 90_Sistema → Scripts e sistema
-```
-
----
-
-### NÓ 6: Executar Ação no GitHub (Obsidian)
-
-#### 6A — CRIAR/ATUALIZAR NOTA
-- **Tipo:** HTTP Request
-- **Método:** PUT
-- **URL:**
-```
-https://api.github.com/repos/ismaelsantos0/obsidian-vault/contents/{{ $json.pasta }}/{{ $json.titulo }}.md
-```
-- **Headers:**
-```json
-{
-  "Authorization": "Bearer SEU_GITHUB_TOKEN",
-  "Content-Type": "application/json"
-}
-```
-- **Body:**
-```json
-{
-  "message": "bot: nova nota via WhatsApp",
-  "content": "{{ Buffer.from($json.conteudo).toString('base64') }}",
-  "branch": "main"
-}
-```
-
-#### 6B — BUSCAR NO VAULT
-- **Tipo:** HTTP Request
-- **Método:** GET (busca nos arquivos via GitHub API ou usando o Search)
-```
-GET https://api.github.com/search/code?q={{ $json.query }}+repo:ismaelsantos0/obsidian-vault
-```
-
-#### 6C — DAILY NOTE (APPEND)
-- Primeiro GET para pegar o conteúdo atual do arquivo `Daily_Gravity/YYYY-MM-DD.md`
-- Depois PUT com o conteúdo original + nova linha adicionada no final
-
----
-
-### NÓ 7: Responder no WhatsApp
-- **Tipo:** HTTP Request
-- **Método:** POST
-- **URL:**
-```
-https://SEU-CONECTAZAP.com/message/sendText/NOME_DA_INSTANCIA
-```
-- **Headers:** `{ apikey: "SUA_API_KEY" }`
-- **Body:**
-```json
-{
-  "number": "5595XXXXXXX",
-  "text": "✅ Nota criada com sucesso!\n📁 {{ $json.pasta }}/{{ $json.titulo }}.md"
-}
-```
-
----
-
-## 4. COMANDOS QUE VOCÊ PODE USAR
-
-| Comando (WhatsApp) | O que acontece |
-|---|---|
-| `salva: [conteúdo]` | Cria nota em `30_Dominio_Intelectual` |
-| `projeto tinta: [task]` | Adiciona no arquivo do Projeto Tinta |
-| `daily: [texto]` | Adiciona na Daily Note de hoje |
-| `busca: [termo]` | Pesquisa no vault e retorna resultado |
-| `[link de artigo]` | Extrai e salva o conteúdo do link |
-| `[PDF anexado]` | Extrai texto e cria nota |
-
----
-
-## 5. VARIÁVEIS DE AMBIENTE (N8N)
-
-Salve essas variáveis de forma segura nas Credentials do N8N:
+## 4. VARIÁVEIS DE AMBIENTE ATUALIZADAS (N8N)
 
 ```env
 GITHUB_TOKEN=ghp_XXXXXXXXXXXXXXXXXXXX
@@ -209,21 +81,5 @@ CONECTAZAP_URL=https://seu-conectazap.com
 INSTANCIA_BOT=nome-da-instancia-bot
 MEU_NUMERO=5595XXXXXXX@s.whatsapp.net
 GEMINI_API_KEY=AIzaSy_XXXXXXXXXXXXXXXXXXXX
+OPENAI_API_KEY=sk-proj-XXXXXXXXXXXXXXXXX # Para transcrição de áudio
 ```
-
----
-
-## 6. PRÓXIMOS PASSOS
-
-- [ ] Criar instância do bot no ConectaZap
-- [ ] Gerar GitHub Personal Access Token (scope: `repo`)
-- [ ] Criar o workflow no N8N seguindo os nós acima
-- [ ] Testar o filtro de número com uma mensagem simples
-- [ ] Testar criação de nota básica
-- [ ] Testar busca no vault
-- [ ] Testar append na Daily Note
-- [ ] Testar upload de PDF
-
----
-
-*Tags: [[ConectaZap]] [[N8N]] [[Obsidian]] [[Bot_Pessoal]] [[GitHub_API]]*
