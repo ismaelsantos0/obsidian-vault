@@ -11,9 +11,9 @@ relacionado_a: ["[[Roteiro Mestre - ALE-RR]]"]
 ---
 
 > [!ABSTRACT] 📊 Status Geral do Projeto
-> | Dias para Prova | Fase Atual | Tópicos Cobertos | Meta Semanal |
+> | Dias para Prova | Fase Atual | Status do Concurso | Próximas Etapas |
 > | :---: | :---: | :---: | :---: |
-> | **70 dias** | 🟢 **Diagnóstico** | **18%** | 2,5 tópicos/dia |
+> | **Realizada (28/06)** | 🔵 **Pós-Prova** | **Gabaritos Preliminares Divulgados** | Análise de Recursos / Resultados |
 
 ---
 
@@ -102,11 +102,11 @@ gantt
 
 ---
 
-## 🔍 Temas Críticos (Gaps de Estudo)
-> [!CAUTION] **Focar nestes assuntos nos próximos 3 dias:**
-> - **AFO:** Regime Contábil (Receita = Caixa) e LDO vs LOA.
-> - **PROC. LEG:** Vedações de PEC e Poderes das CPIs.
-> - **MP:** Prazos e vedações de edição.
+## 🔍 Ações Pós-Prova
+> [!CAUTION] **Foco Atual:**
+> - Acompanhar site da FCC e Diário Oficial da ALE-RR.
+> - Conferir os gabaritos preliminares.
+> - Avaliar pertinência de recursos contra as questões da prova.
 
 ---
 

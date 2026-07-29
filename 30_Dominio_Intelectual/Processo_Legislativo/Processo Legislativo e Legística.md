@@ -20,9 +20,9 @@ relacionado_a: ["[[]]"]
 - Emendas à Constituição (PEC)
 - Leis Complementares → Maioria **Absoluta**
 - Leis Ordinárias → Maioria **Simples**
-- Leis Delegadas
-- Medidas Provisórias (relevância + urgência, 60+60 dias)
-- Decretos Legislativos e Resoluções
+- Leis Delegadas *(Ex: Lei Delegada nº 13/1992 - instrumento muito raro atualmente)*
+- Medidas Provisórias (relevância + urgência, 60+60 dias) *(Ex: MPV 1154/2023 sobre a reestruturação dos Ministérios, corrida contra o tempo para não "caducar")*
+- Decretos Legislativos e Resoluções *(Ex: PDL 172/2024 para ratificar acordos internacionais ou sustar atos normativos do Executivo)*
 
 ## 2. LC 95/1998 — Regras de Articulação
 *A cobra a estrutura interna das leis.*

@@ -8,16 +8,16 @@ tags:
 created: 2026-07-28
 cargo: Assistente Administrativo
 cargo_numero: "21"
-salario: "R$ 3.036,00"
-vagas: 10
+salario: "R$ 2.918,00"
+vagas: 105
 ---
 
 # 🗂️ Assistente Administrativo — CAER 2026
 
 **Carreira:** Técnico Administrativo (TEA)
 **Cargo Nº:** 21
-**Salário:** R$ 3.036,00 | **Jornada:** 40h semanais
-**Vagas:** 10 imediatas (8 AC + 2 PcD) + 10 cadastro reserva
+**Salário:** R$ 2.918,00 | **Jornada:** 40h semanais
+**Vagas:** ==105 imediatas== (94 AC + 11 PcD) + ==105 cadastro reserva== (Total: 210 vagas)
 **Requisito:** Ensino Médio Completo
 
 🔗 Voltar para → [[00_CAER_2026_Guia_Completo]]

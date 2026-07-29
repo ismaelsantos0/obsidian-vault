@@ -21,6 +21,8 @@ O objetivo principal da CCJ não é avaliar o mérito (se a ideia do projeto é 
 
 *Se a CCJ emitir parecer pela inconstitucionalidade absoluta de um projeto, ele é arquivado e sequer vai para o plenário (na maioria dos regimentos).*
 
+> **Exemplo Real no Congresso:** Na tramitação da Reforma da Previdência (PEC 6/2019), o primeiro passo foi a aprovação da admissibilidade na CCJ da Câmara dos Deputados. A comissão focou apenas em analisar se o texto feria cláusulas pétreas (constitucionalidade e juridicidade), sem adentrar no mérito, antes de enviá-la à Comissão Especial.
+
 ## ⏳ Prazos de Parecer
 Os prazos variam conforme o Regimento Interno de cada Assembleia, mas geralmente seguem a lógica da urgência do regime de tramitação:
 - **Regime Ordinário (Normal):** Prazo padrão para emissão de parecer e emendas (ex: 10 a 15 dias úteis).
@@ -28,3 +30,5 @@ Os prazos variam conforme o Regimento Interno de cada Assembleia, mas geralmente
 - **Regime de Urgência Urgentíssima:** Dispensa de prazos regimentais; o parecer pode ser dado até verbalmente no Plenário.
 
 > **Importante:** Sempre confirme os prazos exatos no Regimento Interno específico do órgão (ex: ALE-RR) antes da prova.
+
+> **Exemplo Real de Prazos no Congresso:** Durante a pandemia de COVID-19, a Câmara dos Deputados e o Senado aprovaram o "Orçamento de Guerra" (PEC 10/2020) e diversas medidas provisórias sob regime de urgência, permitindo que os pareceres fossem dados oralmente no Plenário, dispensando os longos prazos das comissões.

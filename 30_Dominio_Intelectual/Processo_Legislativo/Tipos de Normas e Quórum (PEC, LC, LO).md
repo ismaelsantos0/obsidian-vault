@@ -12,11 +12,11 @@ relacionado_a: ["[[MOC - Processo Legislativo]]"]
 
 Existem diferenças estruturais e de votação dependendo do tipo da norma que tramita na Casa Legislativa.
 
-| Tipo de Norma | Quórum de Aprovação | Regra de Votação |
-|:---|:---|:---|
-| **Emenda à Constituição (PEC)** | **3/5** (Três Quintos) dos membros | Votada em 2 turnos. É a mais rigorosa. |
-| **Lei Complementar (LC)** | **Maioria Absoluta** (metade + 1 do total de membros) | A CF/88 exige LC para matérias mais sensíveis estruturalmente. |
-| **Lei Ordinária (LO)** | **Maioria Simples** (metade + 1 dos *presentes*) | Matérias residuais. Requer a presença da maioria absoluta no plenário para iniciar. |
+| Tipo de Norma | Quórum de Aprovação | Regra de Votação | Exemplo Real no Congresso |
+|:---|:---|:---|:---|
+| **Emenda à Constituição (PEC)** | **3/5** (Três Quintos) dos membros | Votada em 2 turnos. É a mais rigorosa. | **PEC da Reforma da Previdência (EC 103/2019)**: Exigiu pelo menos 308 votos favoráveis dos 513 deputados, em 2 turnos. |
+| **Lei Complementar (LC)** | **Maioria Absoluta** (metade + 1 do total de membros) | A CF/88 exige LC para matérias mais sensíveis estruturalmente. | **Lei da Ficha Limpa (LC 135/2010)**: Precisava de pelo menos 257 votos na Câmara, não importa quantos estivessem presentes. |
+| **Lei Ordinária (LO)** | **Maioria Simples** (metade + 1 dos *presentes*) | Matérias residuais. Requer a presença da maioria absoluta no plenário para iniciar. | **Lei Geral de Proteção de Dados (LGPD - Lei 13.709/2018)**: Aprovada apenas pela maioria dos deputados que estavam no Plenário. |
 
 ### Matérias Exclusivas
 Decretos Legislativos e Resoluções **NÃO** passam pela apreciação do Chefe do Executivo (não sofrem sanção ou veto). Elas tratam de matéria de competência exclusiva do próprio poder legislativo e são promulgadas pela Mesa Diretora da casa legislativa correspondente.

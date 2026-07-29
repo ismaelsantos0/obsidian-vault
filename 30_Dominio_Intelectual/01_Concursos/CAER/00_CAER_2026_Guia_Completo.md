@@ -14,6 +14,9 @@ prova: 2026-11-22
 ### Fundação Ajuri | Edital Nº 03/2026
 **Foco:** [[01_Bombeiro_Hidraulico|Bombeiro Hidráulico]] (Cargo 39) e [[02_Assistente_Administrativo|Assistente Administrativo]] (Cargo 21)
 
+> [!IMPORTANT]
+> **ATUALIZAÇÃO:** O edital retificado destaca ==210 vagas (105 imediatas + 105 CR)== por cargo, e a cota PcD foi ajustada para **10%**.
+
 ---
 
 ## 📅 CALENDÁRIO OFICIAL — DATAS RELEVANTES
@@ -40,11 +43,11 @@ prova: 2026-11-22
 |---|---|---|
 | **Carreira** | Técnico de Saneamento (TES) | Técnico Administrativo (TEA) |
 | **Cargo Nº** | 39 | 21 |
-| **Salário** | R$ 3.036,00 | R$ 3.036,00 |
+| **Salário** | R$ 3.558,00 | R$ 2.918,00 |
 | **Benefícios** | Sim (não especificados) | Sim (não especificados) |
 | **Jornada** | 40h semanais | 40h semanais |
-| **Vagas Imediatas** | 10 (9 AC + 1 PcD) | 10 (8 AC + 2 PcD) |
-| **Cadastro Reserva** | 10 vagas | 10 vagas |
+| **Vagas Imediatas** | ==105== (94 AC + 11 PcD) | ==105== (94 AC + 11 PcD) |
+| **Cadastro Reserva** | ==105 vagas== | ==105 vagas== |
 | **Requisito** | Ensino Médio Completo | Ensino Médio Completo |
 | **Registro Profissional** | Não exige | Não exige |
 | **Taxa de Inscrição** | R$ 75,00 | R$ 75,00 |

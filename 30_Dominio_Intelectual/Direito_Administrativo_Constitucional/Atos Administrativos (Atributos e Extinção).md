@@ -26,3 +26,7 @@ Como e por quem um ato pode deixar de existir:
 | **Anulação** | Administração Pública ou Poder Judiciário | Ilegalidade/vício. O ato nasceu com defeito legal. | **Ex tunc** (retroage à origem para apagar os efeitos). |
 | **Convalidação** | Administração Pública | Vício sanável (competência ou forma). Serve para consertar um ato e aproveitá-lo. | **Ex tunc** (retroage validando o passado). |
 
+### Atualizações Jurisprudenciais Recentes (STF/STJ)
+- **Contraditório e Ampla Defesa na Autotutela:** A jurisprudência consolidou que, embora a Administração tenha o poder de autotutela para anular ou revogar atos (Súmulas 346 e 473 do STF), caso o ato já tenha produzido **efeitos concretos** na esfera de interesses do cidadão, o desfazimento deve ser obrigatoriamente precedido de **processo administrativo regular**, garantindo contraditório e ampla defesa.
+- **Decadência vs. Atos Inconstitucionais (STJ 2025/2026):** O prazo decadencial de 5 anos para anulação de atos ilegais (art. 54 da Lei 9.784/1999) é **mitigado** em situações de flagrante inconstitucionalidade (ex: admissão sem concurso público). O decurso do tempo não convalida situações que afrontam diretamente a Constituição Federal.
+

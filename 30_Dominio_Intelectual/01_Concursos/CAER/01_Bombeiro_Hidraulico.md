@@ -8,16 +8,16 @@ tags:
 created: 2026-07-28
 cargo: Bombeiro Hidráulico
 cargo_numero: "39"
-salario: "R$ 3.036,00"
-vagas: 10
+salario: "R$ 3.558,00"
+vagas: 105
 ---
 
 # 🔧 Bombeiro Hidráulico — CAER 2026
 
 **Carreira:** Técnico de Saneamento (TES)
 **Cargo Nº:** 39
-**Salário:** R$ 3.036,00 | **Jornada:** 40h semanais
-**Vagas:** 10 imediatas (9 AC + 1 PcD) + 10 cadastro reserva
+**Salário:** R$ 3.558,00 | **Jornada:** 40h semanais
+**Vagas:** ==105 imediatas== (94 AC + 11 PcD) + ==105 cadastro reserva== (Total: 210 vagas)
 **Requisito:** Ensino Médio Completo
 
 🔗 Voltar para → [[00_CAER_2026_Guia_Completo]]

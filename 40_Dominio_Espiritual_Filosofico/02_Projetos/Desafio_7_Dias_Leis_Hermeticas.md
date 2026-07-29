@@ -66,8 +66,8 @@ Você vai até o fim, mesmo que perceba desconfortos. Porque depois que você v�
 **“O todo é mente.”**
 
 **Explicação prática (o que fazer):**
-- Durante o dia, anote 3 pensamentos automáticos negativos assim que surgirem.
-- Para cada um, escreva uma substituição consciente que seja verdadeira e útil para agir melhor.
+- A sua realidade externa nasce na sua paisagem interior. Durante o dia, anote 3 pensamentos automáticos negativos assim que surgirem.
+- Para cada um, escreva uma substituição consciente que seja verdadeira e útil para agir melhor. Mude o padrão, mude o fato.
 - Faça uma janela de 2 horas de vigilância mental ativa, observando e substituindo na hora.
 
 **Prática (pensamento negativo → substituição):**
@@ -88,9 +88,9 @@ _________________________________________________________________________
 **“O que está dentro está fora.”**
 
 **Explicação prática (o que fazer):**
-- Escolha 1 área externa específica que está bagunçada (mesa, quarto, agenda, arquivos do celular).
+- O seu ambiente é um espelho da sua mente. Escolha 1 área externa específica que está bagunçada (mesa, quarto, agenda, arquivos do celular).
 - Observe qual padrão interno ela espelha (procrastinação, excesso, confusão, falta de prioridade).
-- Organize essa área em 20 a 40 minutos, com começo e fim claros.
+- Organize essa área em 20 a 40 minutos, com começo e fim claros. A ordem externa ajudará a induzir a ordem interna.
 - Finalize anotando como o “fora” mudou a sensação do “dentro”.
 
 **Área bagunçada que vou observar:** _______________________________________
@@ -106,9 +106,9 @@ _________________________________________________________________________
 **“Nada está parado.”**
 
 **Explicação prática (o que fazer):**
-- Assim que perceber queda de energia, ansiedade ou irritação, você vai escolher 1 ação para mudar o estado.
-- O objetivo é sair do estado ruim em até 15 minutos, sem negociar com a mente.
-- Registre o gatilho e o que funcionou melhor.
+- Tudo é energia em movimento. Assim que perceber queda de energia, ansiedade ou irritação, você vai escolher 1 ação para mudar sua sintonia.
+- O objetivo é elevar a frequência e sair do estado ruim em até 15 minutos, sem negociar com a mente.
+- Registre o gatilho (o que baixou sua vibração) e o que funcionou melhor.
 
 **Escolha 1 para elevar a vibração:**
 - [ ] Treinar
@@ -129,9 +129,9 @@ _________________________________________________________________________
 **“Tudo tem dois polos.”**
 
 **Explicação prática (o que fazer):**
-- Escolha 1 fato negativo real do dia (sem romantizar).
-- Encontre uma utilidade prática: o que isso está mostrando, pedindo ou corrigindo.
-- Transforme em 1 aprendizado que vire ação para amanhã.
+- Todo sentimento tem seu oposto na mesma escala. Escolha 1 fato negativo real do dia (sem romantizar).
+- Encontre uma utilidade prática: o que isso está mostrando, pedindo ou corrigindo. Busque o caminho do meio.
+- Transforme em 1 aprendizado que vire ação (transmutação) para amanhã.
 
 **Fato negativo de hoje:** _________________________________________________
 **Utilidade (lado positivo sem romantizar):** _______________________________
@@ -146,9 +146,9 @@ _________________________________________________________________________
 **“Tudo tem fluxo e refluxo.”**
 
 **Explicação prática (o que fazer):**
-- Identifique seu pico e sua baixa de energia de hoje, com horário e estado.
-- Use o pico para produzir algo concreto.
-- Use a baixa para recuperação intencional (sem culpa), com uma estratégia definida.
+- A vida é cíclica. Identifique seu pico e sua baixa de energia de hoje, com horário e estado.
+- Use o pico para produzir algo concreto (aproveite a maré alta).
+- Use a baixa para recuperação intencional (sem culpa), com uma estratégia definida (neutralização).
 
 **Meu pico de energia (horário/estado):** ___________________________________
 **Minha baixa de energia (horário/estado):** ________________________________
@@ -166,9 +166,9 @@ _________________________________________________________________________
 **“Nada acontece por acaso.”**
 
 **Explicação prática (o que fazer):**
-- Defina 1 resultado que você quer e que faria diferença real.
-- Escreva a causa que realmente produz esse efeito (não desejo, causa).
-- Escolha 1 ação direta, mensurável e com horário marcado para executar hoje.
+- Nós somos os causadores do nosso sucesso ou fracasso. Defina 1 resultado que você quer e que faria diferença real.
+- Escreva a causa que realmente produz esse efeito (não um desejo passivo, mas uma causa real).
+- Escolha 1 ação direta, mensurável e com horário marcado para executar hoje (seja a causa, não o efeito).
 
 **Resultado que eu quero:** ________________________________________________
 **Causa real que gera esse efeito:** ________________________________________
@@ -183,9 +183,9 @@ _________________________________________________________________________
 **“Tudo tem energia masculina e feminina.”**
 
 **Explicação prática (o que fazer):**
-- Masculino: escolha 1 ação importante e objetiva e execute (direção, decisão, corte de excesso).
-- Feminino: antes de agir em algo sensível, faça uma pausa curta para sentir e perceber nuances.
-- Tome 1 decisão unindo razão (dados, lógica) e intuição (sinais internos).
+- O equilíbrio destas energias evita a exaustão e a estagnação. Masculino: escolha 1 ação importante e objetiva e execute (direção, decisão, corte de excesso).
+- Feminino: antes de agir em algo sensível, faça uma pausa curta para intuir, acolher e perceber nuances.
+- Tome 1 decisão unindo razão (dados, força Yang) e intuição (sinais internos, sabedoria Yin).
 
 **Ação importante que vou executar (masculino):** __________________________
 **Pausa e reflexão antes de agir (feminino):** ______________________________

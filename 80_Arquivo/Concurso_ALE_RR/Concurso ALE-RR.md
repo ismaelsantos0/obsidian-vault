@@ -16,7 +16,7 @@ status: em andamento
 - **Vagas Ofertadas:** 132 vagas totais (118 Ampla Concorrência + 14 PCD)
 - **Valor da Inscrição:** R$ 100,00
 - **Banca Organizadora:** Fundação Carlos Chagas (FCC)
-- **Status do Edital:** Aberto (Inscrições: 06/04 a 06/05/2026)
+- **Status do Edital:** Pós-Prova (Gabaritos Preliminares divulgados. Provas realizadas em 28/06/2026)
 
 ## 📅 Cronograma e Prazos Operacionais
 - **Abertura das Inscrições:** 06 de abril de 2026 (a partir das 10h).
