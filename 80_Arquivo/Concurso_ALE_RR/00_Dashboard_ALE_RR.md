@@ -13,7 +13,7 @@ relacionado_a: ["[[Roteiro Mestre - ALE-RR]]"]
 > [!ABSTRACT] 📊 Status Geral do Projeto
 > | Dias para Prova | Fase Atual | Status do Concurso | Próximas Etapas |
 > | :---: | :---: | :---: | :---: |
-> | **Realizada (28/06)** | 🔵 **Pós-Prova** | **Gabaritos Preliminares Divulgados** | Análise de Recursos / Resultados |
+> | **Concluída** | 🔴 **Encerrado** | **Não Aprovado** | Foco em novos certames (CAER) |
 
 ---
 
@@ -103,10 +103,10 @@ gantt
 ---
 
 ## 🔍 Ações Pós-Prova
-> [!CAUTION] **Foco Atual:**
-> - Acompanhar site da FCC e Diário Oficial da ALE-RR.
-> - Conferir os gabaritos preliminares.
-> - Avaliar pertinência de recursos contra as questões da prova.
+> [!NOTE] **Status do Projeto:**
+> - Projeto encerrado.
+> - Analisar pontos fracos do boletim de desempenho para os próximos concursos.
+> - Redirecionar a energia e carga horária para o concurso da **CAER 2026**.
 
 ---
 
