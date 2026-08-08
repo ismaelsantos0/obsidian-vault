@@ -5,6 +5,15 @@
 
 ---
 
+## 🧠 SEGUNDO CÉREBRO (LLM Wiki Pattern)
+A Inteligência Artificial (eu!) processa o seu Inbox e organiza o seu conhecimento aqui.
+
+- 📥 **[[00_Inbox/00_Inbox|Inbox Principal]]** *(Jogue textos, links e notas rápidas aqui)*
+- 📚 **[[📚_MOC_Biblioteca]]** *(Seus livros e resumos)*
+- 🎵 **[[🎵_MOC_Cultura]]** *(Seus gostos musicais e filmes)*
+
+---
+
 ## 1. MAPA DE PROJETOS
 
 ### 🟢 Projetos Ativos (Com Evolução Recente)
