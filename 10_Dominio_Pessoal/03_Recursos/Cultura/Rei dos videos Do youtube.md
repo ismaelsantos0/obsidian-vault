@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "Rei dos videos Do youtube"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "Rei dos videos Do youtube"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ Rei dos videos Do youtube
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- A morte do líder da caixa baixa - Cidade de Deus 2
+- IMPUROS - O cachorro Caramelo do crime
+- IMPUROS 5 - Sargento mergulhador do crime
+- Pediu pra sair do crime - Cidade de Deus 2
+- Ojuara vs Zé pretinho - O homem que desafiou o diabo
 
 
 ---

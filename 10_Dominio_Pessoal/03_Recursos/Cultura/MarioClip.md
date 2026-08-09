@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "MarioClip"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "MarioClip"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ MarioClip
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- INSANE 4 rolls with 8x #casino #slots #highlights #crazytime #roobet
+- LITERALLY BIG FISH SEASON 😳 #shorts #viralshorts #crazytime
+- SMART MOVE BRO! 🤩 #casino #slots #crazytime
+- BRO LOVES HIS CHAT ❤️ #casino #slots #crazytime
+- Monopoly went wild! 😱 doubles everywhere! #casino #mines #crazytime #roobet
 
 
 ---

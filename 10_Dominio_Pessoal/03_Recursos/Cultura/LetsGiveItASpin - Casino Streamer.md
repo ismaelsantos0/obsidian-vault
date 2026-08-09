@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "LetsGiveItASpin - Casino Streamer"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "LetsGiveItASpin - Casino Streamer"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ LetsGiveItASpin - Casino Streamer
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- 🛑Opening Up €20.000 Worth Of Super Bonuses!🛑 (Vertical)
+- Max Win but the SLOT IS RIGGED?! 😡💥
+- MY BIGGEST WIN EVER on Battery Charger! 😱🔥 #lightningstorm
+- What Happens When You Get The PERFECT Bonus 🔋💯
+- It's either a Big Win or a HUGE WIN on this Balloon Race Bonus 😱
 
 
 ---

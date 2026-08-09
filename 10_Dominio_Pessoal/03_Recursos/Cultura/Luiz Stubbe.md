@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "Luiz Stubbe"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "Luiz Stubbe"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ Luiz Stubbe
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Nunca faltou um TREINO? #curioso #interessante #curioso
+- Ela pegou a bola no meio do JOGO! #voleibol #volei #interessante #incrivel
+- É mais difícil do que PARECE! #curiosidades #incrivel
+- Esse cara quebrou o JOGO! #curioso #incrivel #interessante
+- Mapa mais ASSUSTADOR! #incrivel #curioso #interessante
 
 
 ---

@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "MotoWetness"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "MotoWetness"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ MotoWetness
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,8 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- $UICIDEBOY$ x POUYA - Runnin' Thru The 7th With My Woadies | YAMAHA R1 GMW
+- 916frosty - FRIDAY (ft. Moji) | Mojifam
 
 
 ---

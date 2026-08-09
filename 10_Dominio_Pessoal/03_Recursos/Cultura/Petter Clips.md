@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "Petter Clips"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "Petter Clips"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ Petter Clips
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- BUXEXA ACREDITOU QUE O STACK'EM IA PAGAR E FORROU MUITO!
+- BUXEXA INSISTIU NA CALL DO SEU INSCRITO PRA FORRAR NO ZEUS VS HADES
+- BUXEXA FORROU MUITO NOS FORTUNE DRAGON E TIGER COM ESSA ESTRATEGIA!
+- BUXEXA PEGOU UM 1000X NO SWEET BONANZA NO PRIMEIRO BÔNUS!
+- BUXEXA INSISTIU NO SUGAR RUSH ATÉ CONSEGUIR FORRAR MUITO E RECUPERAR SUA BANCA!
 
 
 ---

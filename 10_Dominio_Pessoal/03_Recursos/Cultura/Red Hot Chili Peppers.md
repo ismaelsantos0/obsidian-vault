@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "Red Hot Chili Peppers"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "Red Hot Chili Peppers"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ Red Hot Chili Peppers
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,10 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Red Hot Chili Peppers - Dark Necessities [Official Music Video]
+- Red Hot Chili Peppers - Can't Stop [Official Music Video]
+- Red Hot Chili Peppers - Scar Tissue [Official Music Video] [HD UPGRADE]
+- Red Hot Chili Peppers - Snow [Hey Oh] [Video]
 
 
 ---

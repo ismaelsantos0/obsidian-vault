@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "BUXEXA"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "BUXEXA"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ BUXEXA
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- ENTREI COM MEDO E SAI COM O DINHEIRO NO FORTUNE DRAGON
+- FORREI MUITO NO VEIO DO RAIO
+- FORREI MAIS DE $30MIL NESSE BÔNUS!
+- RODEI $200 E VOLTOU MAIS DE $50MIL
+- R$100MIL NO SUGAR RUSH COM UM BÔNUS INESPERADO!
 
 
 ---

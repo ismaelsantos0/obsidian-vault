@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "Ozuna"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "Ozuna"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ Ozuna
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Ozuna - Se Preparó (Video Oficial) | Odisea
+- Ozuna - Dile Que Tu Me Quieres (Video Oficial) | Odisea
+- Ozuna x Romeo Santos - El Farsante (Remix) (Video Oficial)
+- Ozuna - Te Vas (Video Oficial)
+- Ozuna - El Farsante (Audio Oficial) | Odisea
 
 
 ---

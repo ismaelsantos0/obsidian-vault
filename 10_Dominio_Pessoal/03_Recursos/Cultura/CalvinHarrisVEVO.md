@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "CalvinHarrisVEVO"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "CalvinHarrisVEVO"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ CalvinHarrisVEVO
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Calvin Harris - My Way (Official Video)
+- Calvin Harris - Summer (Official Video)
+- Calvin Harris - Outside (Official Video) ft. Ellie Goulding
+- Calvin Harris - Blame (Audio) ft. John Newman
+- Calvin Harris - Blame ft. John Newman
 
 
 ---

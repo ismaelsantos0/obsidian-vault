@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "O Markola"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "O Markola"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ O Markola
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- O MARKOLA QUASE DEU MAX WIN NO ZEUS VS HADES DENOVO! #fyp #freefire #omarkola
+- O MARKOLA DEU MAX WIN NO FRUIT DUEL! #fyp #freefire #omarkola
+- O MARKOLA GANHOU 1 MILHAO NO ZEUS VS HADES! #fyp #freefire #omarkola
+- O MARKOLA GANHOU R$50.000 EM UMA RODADA NO FORTUNE DRAGON! #fyp #freefire #omarkola
+- O MARKOLA PEGOU NIVEL MAXIMO NO BIG BASS DO REI! #fyp #freefire #omarkola
 
 
 ---

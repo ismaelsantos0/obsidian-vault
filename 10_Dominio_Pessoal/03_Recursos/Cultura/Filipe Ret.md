@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "Filipe Ret"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "Filipe Ret"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ Filipe Ret
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Filipe Ret ✦ A Meu Favor (Ft. Kayuá - Prod. Dallass/Honaiser)
+- Filipe Ret - NUME - ÁLBUM COMPLETO
+- Filipe Ret ✦ Melhor Agora (Prod. Dallass/Honaiser/LODONI)
+- Filipe Ret - Acima de Mim Só Deus☝🏽(Clipe Oficial)
+- Filipe Ret - Uma Era
 
 
 ---

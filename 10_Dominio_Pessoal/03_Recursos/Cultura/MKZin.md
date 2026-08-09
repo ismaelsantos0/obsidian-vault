@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "MKZin"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "MKZin"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ MKZin
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- FUI PESCAR NA LAGOA DAS MOEDAS DO BIG BASS E CONSEGUI UMA F0RRA INSANA!!!
+- PESCARIA NA LAGOA DO BIG BASS INFINITO VEIO MUITO PESCADOR!!!
+- PESCARIA LINDA NO BIG BASS SPLASH, FOI PERFEITA!!!
+- PESCARIA NO BIG BASS DE VOVO FEZ A BOA, FORRINHA LINDA!!!
+- PESCARIA NO BIG BASS DIFERENTE, ESSE FINAL FOI INSANO!!!
 
 
 ---

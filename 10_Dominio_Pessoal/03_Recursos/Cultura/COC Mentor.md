@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "COC Mentor"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "COC Mentor"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ COC Mentor
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- The Barbarian King's Era 🔥 ll Clash of clans ll #shorts #clashofclans #coc
+- 250 gems got wasted ll Clash of clans ll #shorts #clashofclans #coc
+- Giant Arrow Fastest launchable equipment ll Clash of clans ll #shorts #clashofclans #coc
+- 45 minutes for a single pekka ☠️ ll Clash of clans ll #shorts #clashofclans #coc
+- Air Defence 🔥 ll Clash of clans ll #shorts #clashofclans #coc
 
 
 ---

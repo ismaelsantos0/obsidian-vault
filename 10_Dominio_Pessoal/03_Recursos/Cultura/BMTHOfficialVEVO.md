@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "BMTHOfficialVEVO"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "BMTHOfficialVEVO"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ BMTHOfficialVEVO
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,10 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Bring Me The Horizon - Sleepwalking
+- Bring Me The Horizon - Drown
+- Bring Me The Horizon - Throne
+- Bring Me The Horizon - True Friends (Official Lyric Video)
 
 
 ---

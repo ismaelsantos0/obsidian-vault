@@ -14,16 +14,16 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŽ§ Resumo do HistÃ³rico
-> VocÃª consumiu muito o conteÃºdo deste canal/artista. Aqui estÃ£o os vÃ­deos mais vistos por vocÃª de acordo com a mineraÃ§Ã£o de dados!
+> VocÃª consumiu muito o conteÃºdo deste canal/artista (Conta Principal: ismaelifrr). Aqui estÃ£o os vÃ­deos mais vistos por vocÃª de acordo com a mineraÃ§Ã£o de dados!
 
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Castlevania
-- Quem Manda É a 30
-- Banco
 - Reza do Milhão
-- Vampiro
+- Banco
+- Quer Voar
+- A Morte do Autotune
+- Conexões de Máfia
 
 
 ---

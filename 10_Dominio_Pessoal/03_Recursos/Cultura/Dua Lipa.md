@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "Dua Lipa"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "Dua Lipa"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ Dua Lipa
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Dua Lipa - New Rules (Official Music Video)
+- Dua Lipa - Break My Heart (Official Video)
+- Dua Lipa - Don't Start Now (Official Music Video)
+- Dua Lipa - Levitating Featuring DaBaby (Official Music Video)
+- Dua Lipa - Houdini (Official Music Video)
 
 
 ---

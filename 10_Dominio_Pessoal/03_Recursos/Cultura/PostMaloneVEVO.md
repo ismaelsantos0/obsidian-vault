@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "PostMaloneVEVO"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "PostMaloneVEVO"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ PostMaloneVEVO
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,11 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)
+- Post Malone - Congratulations (Official Music Video) ft. Quavo
+- Post Malone - Too Young (Official Music Video)
+- Post Malone - Take What You Want (Audio) ft. Ozzy Osbourne, Travis Scott
+- Post Malone - Go Flex (Official Music Video)
 
 
 ---

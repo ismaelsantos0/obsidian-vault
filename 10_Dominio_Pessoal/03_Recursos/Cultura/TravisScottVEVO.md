@@ -14,16 +14,15 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŽ§ Resumo do HistÃ³rico
-> VocÃª consumiu muito o conteÃºdo deste canal/artista. Aqui estÃ£o os vÃ­deos mais vistos por vocÃª de acordo com a mineraÃ§Ã£o de dados!
+> VocÃª consumiu muito o conteÃºdo deste canal/artista (Conta Principal: ismaelifrr). Aqui estÃ£o os vÃ­deos mais vistos por vocÃª de acordo com a mineraÃ§Ã£o de dados!
 
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
 - Travis Scott - goosebumps (Official Video) ft. Kendrick Lamar
 - Travis Scott - FE!N ft. Playboi Carti
-- Travis Scott - HIGHEST IN THE ROOM (Official Music Video)
-- Travis Scott - BUTTERFLY EFFECT (Official Video)
-- Travis Scott - HIGHEST IN THE ROOM (Audio)
+- Travis Scott - SICKO MODE (Official Video) ft. Drake
+- Travis Scott - SICKO MODE (Audio)
 
 
 ---

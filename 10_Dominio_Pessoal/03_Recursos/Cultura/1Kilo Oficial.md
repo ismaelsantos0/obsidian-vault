@@ -1,14 +1,14 @@
 ---
 tipo: cultura
-titulo: "30PRAUM"
+titulo: "1Kilo Oficial"
 categoria: "YouTube" 
-criador: "30PRAUM"
+criador: "1Kilo Oficial"
 rating: 5
 data_inclusao: "2026-08-08"
 tags: [cultura, auto-injetado]
 ---
 
-# ðŸŽµ 30PRAUM
+# ðŸŽµ 1Kilo Oficial
 **Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
@@ -19,11 +19,10 @@ tags: [cultura, auto-injetado]
 ---
 
 ## ðŸŒŸ Faixas/Momentos Favoritos
-- Matuê - Reza do Milhão
-- Matuê - Kenny G
-- Matuê - Crack com Mussilon
-- BRANDÃO85, Matuê - JAPONÊS
-- Matuê - 777-666
+- O Que Tiver Que Ser Vai Ser - Pablo Martins, Xamã, Baviera, Sant, Nabrisa, DoisP (Prod. 1Kilo)
+- Duro Igual Concreto - Gabrá, Knust, Baviera, Pelé MilFlows, Md (Prod. RastaBeats)
+- Acústico 1Kilo - Anjos na Rebeldia (Pablo Martins, Xamã e Bruno Chelles)
+- Dia de Caça - Buddy Poke, Pablo Martins, Xamã, DoisP, Gabriel CamCam, Chris, Knust (Prod.1Kilo)
 
 
 ---
