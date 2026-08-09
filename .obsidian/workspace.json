@@ -11,10 +11,14 @@
             "id": "191712eb626dc59b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "10_Dominio_Pessoal/03_Recursos/Cultura/🎵_MOC_Cultura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎵_MOC_Cultura"
             }
           }
         ]
@@ -232,6 +236,9 @@
   },
   "active": "191712eb626dc59b",
   "lastOpenFiles": [
+    "Carreira e Transicao.md",
+    "30_Dominio_Intelectual/Conhecimentos_Gerais/Recursos e Vídeos por Matéria.md",
+    "00_Inbox/00_Inbox.md",
     "10_Dominio_Pessoal/03_Recursos/Cultura/Atlantic Records.md",
     "10_Dominio_Pessoal/03_Recursos/Cultura/Tribal Trap.md",
     "10_Dominio_Pessoal/03_Recursos/Cultura/void.md",
@@ -254,16 +261,13 @@
     "90_Sistema/03_Recursos/scripts",
     "10_Dominio_Pessoal/03_Recursos/Cultura/Hans_Zimmer.md",
     "30_Dominio_Intelectual/03_Recursos/Biblioteca/Essencialismo.md",
-    "00_Inbox/00_Inbox.md",
     "10_Dominio_Pessoal/03_Recursos/Cultura/🎵_MOC_Cultura.md",
     "30_Dominio_Intelectual/03_Recursos/Biblioteca/📚_MOC_Biblioteca.md",
     "90_Sistema/03_Recursos/Template_Cultura.md",
-    "90_Sistema/03_Recursos/Template_Livro.md",
     "10_Dominio_Pessoal/03_Recursos/Cultura",
     "30_Dominio_Intelectual/03_Recursos/Biblioteca",
     "30_Dominio_Intelectual/03_Recursos",
     "00_Inbox",
-    "Construcao_Bot_N8N_WhatsApp.md",
     "30_Dominio_Intelectual/Conhecimentos_Gerais",
     "30_Dominio_Intelectual/Processo_Legislativo",
     "30_Dominio_Intelectual/Direito_Administrativo_Constitucional",

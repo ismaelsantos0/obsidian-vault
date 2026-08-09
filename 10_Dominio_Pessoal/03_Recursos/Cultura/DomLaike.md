@@ -1,4 +1,4 @@
-﻿---
+---
 tipo: cultura
 titulo: "DomLaike"
 categoria: "YouTube" 
@@ -9,7 +9,7 @@ tags: [cultura, auto-injetado]
 ---
 
 # ðŸŽµ DomLaike
-**Categoria:** $= dv.current().categoria | **Criador/Artista:** $= dv.current().criador | **Rating:** $= "â­".repeat(dv.current().rating)
+**Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
 

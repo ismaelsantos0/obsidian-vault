@@ -9,7 +9,7 @@ tags: [cultura, auto-injetado]
 ---
 
 # ðŸŽµ Tribal Trap
-**Categoria:** $= dv.current().categoria | **Criador/Artista:** $= dv.current().criador | **Rating:** $= "â­".repeat(dv.current().rating)
+**Categoria:** `$= dv.current().categoria` | **Criador/Artista:** `$= dv.current().criador` | **Rating:** `$= "â­".repeat(dv.current().rating)`
 
 ---
 
